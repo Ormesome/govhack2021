@@ -101,7 +101,7 @@ function Form(props) {
         rawdata.forEach((s) => {
           if (
             uniqueClusterFamily.filter(
-              (e) => e.ClusterFamily == s.ClusterFamily
+              (e) => e.ClusterFamily === s.ClusterFamily
             ).length === 0
           ) {
             uniqueClusterFamily.push({ ClusterFamily: s.ClusterFamily });
@@ -110,8 +110,8 @@ function Form(props) {
           if (
             uniqueSpecialistCluster.filter(
               (e) =>
-                e.ClusterFamily == s.ClusterFamily &&
-                e.SpecialistCluster == s.SpecialistCluster
+                e.ClusterFamily === s.ClusterFamily &&
+                e.SpecialistCluster === s.SpecialistCluster
             ).length === 0
           ) {
             uniqueSpecialistCluster.push({
@@ -123,8 +123,8 @@ function Form(props) {
           if (
             uniqueSpecialistTask.filter(
               (e) =>
-                e.SpecialistCluster == s.SpecialistCluster &&
-                e.SpecialistTask == s.SpecialistTask
+                e.SpecialistCluster === s.SpecialistCluster &&
+                e.SpecialistTask === s.SpecialistTask
             ).length === 0
           ) {
             uniqueSpecialistTask.push({
@@ -260,18 +260,18 @@ function Form(props) {
       let evaluated = {};
       evaluated.ANZSCOCode = s.ANZSCOCode;
       if (
-        mySkills.filter((skill) => skill.SpecialistTask == s.SpecialistTask)
+        mySkills.filter((skill) => skill.SpecialistTask === s.SpecialistTask)
           .length > 0
       ) {
         evaluated.Score = 10;
       } else if (
         mySkills.filter(
-          (skill) => skill.SpecialistCluster == s.SpecialistCluster
+          (skill) => skill.SpecialistCluster === s.SpecialistCluster
         ).length > 0
       ) {
         evaluated.Score = 5;
       } else if (
-        mySkills.filter((skill) => skill.ClusterFamily == s.ClusterFamily)
+        mySkills.filter((skill) => skill.ClusterFamily === s.ClusterFamily)
           .length > 0
       ) {
         evaluated.Score = 1;
@@ -281,7 +281,7 @@ function Form(props) {
 
       if (evaluated.Score > 0) {
         evaluated.ANZSCOTitle = state.occupations.filter(
-          (o) => o.ANZSCOCode == evaluated.ANZSCOCode
+          (o) => o.ANZSCOCode === evaluated.ANZSCOCode
         )[0].ANZSCOTitle;
         let index = results
           .map(function (e) {
@@ -317,12 +317,14 @@ function Form(props) {
     setstate((previousState) => {
       return {
         ...previousState,
-        occupation: value,
+        occupation: Number(value),
       };
     });
 
     //get the list of skills
-    let mySkills = state.skills.filter((skill) => skill.ANZSCOCode == value);
+    let mySkills = state.skills.filter(
+      (skill) => skill.ANZSCOCode.toString() === value.toString()
+    );
 
     //identify matching occupations
     let results = [];
@@ -331,18 +333,20 @@ function Form(props) {
       let evaluated = {};
       evaluated.ANZSCOCode = s.ANZSCOCode;
       if (
-        mySkills.filter((skill) => skill.SpecialistTask == s.SpecialistTask)
-          .length > 0
+        mySkills.filter(
+          (skill) =>
+            skill.SpecialistTask.toString() === s.SpecialistTask.toString()
+        ).length > 0
       ) {
         evaluated.Score = 10;
       } else if (
         mySkills.filter(
-          (skill) => skill.SpecialistCluster == s.SpecialistCluster
+          (skill) => skill.SpecialistCluster === s.SpecialistCluster
         ).length > 0
       ) {
         evaluated.Score = 5;
       } else if (
-        mySkills.filter((skill) => skill.ClusterFamily == s.ClusterFamily)
+        mySkills.filter((skill) => skill.ClusterFamily === s.ClusterFamily)
           .length > 0
       ) {
         evaluated.Score = 1;
@@ -352,7 +356,7 @@ function Form(props) {
 
       if (evaluated.Score > 0) {
         evaluated.ANZSCOTitle = state.occupations.filter(
-          (o) => o.ANZSCOCode == evaluated.ANZSCOCode
+          (o) => o.ANZSCOCode === evaluated.ANZSCOCode
         )[0].ANZSCOTitle;
         let index = results
           .map(function (e) {
@@ -432,7 +436,7 @@ function Form(props) {
                       onChange={(e) => onChangeSkillValue(e, index)}
                     >
                       {state.skillSpecialistCluster
-                        .filter((e) => (e.ClusterFamily = skill.ClusterFamily))
+                        .filter((e) => e.ClusterFamily === skill.ClusterFamily)
                         .map((data) => (
                           <option
                             key={data.SpecialistCluster}
@@ -453,7 +457,7 @@ function Form(props) {
                     >
                       {state.skillSpecialistTask
                         .filter(
-                          (e) => (e.SpecialistCluster = skill.SpecialistCluster)
+                          (e) => e.SpecialistCluster === skill.SpecialistCluster
                         )
                         .map((data) => (
                           <option
@@ -506,7 +510,10 @@ function Form(props) {
             </thead>
             <tbody>
               {state.skills
-                .filter((skill) => skill.ANZSCOCode == state.occupation)
+                .filter(
+                  (skill) =>
+                    skill.ANZSCOCode.toString() === state.occupation.toString()
+                )
                 .map((data) => (
                   <tr>
                     <td>{data.ClusterFamily}</td>

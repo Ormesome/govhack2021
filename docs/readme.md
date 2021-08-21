@@ -114,8 +114,8 @@ The following occupations have similar skills to your current role:
 
 ## Future Work
 
-Future work might include the ability to choose skills the user wants to develop and have Training Organisations and their courses returned.
+Include the ability to choose skills the user wants to develop and have Training Organisations and their courses returned.
 
 Generate a delta between a current role or skillset and a desired role. This could be used for planning professional development.
 
-The salary range column has been dropped due to lack or correlation between the v1.1 ANZSCO codes used in the Australian Taxation Office data and the  v1.3 ANZSCO codes used in the National Skills Commision data.
+The salary range column has been dropped due to lack or correlation between the v1.1 ANZSCO codes used in the Australian Taxation Office data and the v1.3 ANZSCO codes used in the National Skills Commision data.
