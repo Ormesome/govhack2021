@@ -1,12 +1,12 @@
 [
-  { "competency": "Initiative and innovation" },
-  { "competency": "Reading" },
-  { "competency": "Oral communication" },
-  { "competency": "Planning and organising" },
-  { "competency": "Digital engagement" },
-  { "competency": "Teamwork" },
-  { "competency": "Problem solving" },
-  { "competency": "Learning" },
-  { "competency": "Numeracy" },
-  { "competency": "Writing" }
+  { "CoreCompetencies": "Initiative and innovation" },
+  { "CoreCompetencies": "Reading" },
+  { "CoreCompetencies": "Oral communication" },
+  { "CoreCompetencies": "Planning and organising" },
+  { "CoreCompetencies": "Digital engagement" },
+  { "CoreCompetencies": "Teamwork" },
+  { "CoreCompetencies": "Problem solving" },
+  { "CoreCompetencies": "Learning" },
+  { "CoreCompetencies": "Numeracy" },
+  { "CoreCompetencies": "Writing" }
 ]

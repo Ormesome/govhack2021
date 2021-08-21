@@ -37,7 +37,7 @@ WITH cte_coreCompetencies AS
 select od.ANZSCOTitle, sum(h.score * cc.score) score
 from nsc.occupationDescriptions od 
   inner join nsc.coreCompetencies cc on od.ANZSCOCode  = cc.ANZSCOCode 
-  inner join cte_coreCompetencies h on h.coreCompetencies = cc.coreCompetencies and h.score = cc.score
+  inner join cte_coreCompetencies h on h.coreCompetencies = cc.coreCompetencies and h.score < cc.score + 1 --shoot for the moon!
 group by od.ANZSCOTitle
 order by score desc, ANZSCOTitle desc
 ```

@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 
+const initialCompetency = [];
+
 const initialSkill = [
   {
     ClusterFamily: "",
@@ -58,6 +60,7 @@ const initialState = {
   skills: [],
   competencies: [],
   occupations: [],
+  occupationCompetency: [],
 
   skillClusterFamily: [],
   skillSpecialistCluster: [],
@@ -67,6 +70,7 @@ const initialState = {
   occupationResults: [],
 
   skill: initialSkill,
+  competency: initialCompetency,
 };
 
 function Form(props) {
@@ -151,7 +155,43 @@ function Form(props) {
   }, []);
 
   const getCompetencies = () => {
-    fetch("/data/competencies.json", {
+    fetch("/data/sub-competencies.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(function (resp) {
+        return resp.json();
+      })
+      .then(function (rawdata) {
+        const myJson = rawdata;
+
+        let uniqueCoreCompetencies = [];
+
+        rawdata.forEach((c) => {
+          if (
+            uniqueCoreCompetencies.filter(
+              (e) => e.CoreCompetencies === c.CoreCompetencies
+            ).length === 0
+          ) {
+            uniqueCoreCompetencies.push({
+              CoreCompetencies: c.CoreCompetencies,
+              Score: 1,
+            });
+          }
+        });
+
+        setstate((previousState) => {
+          return {
+            ...previousState,
+            competencies: myJson,
+            competency: uniqueCoreCompetencies,
+          };
+        });
+      });
+
+    fetch("/data/occupation-competencies.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
@@ -165,7 +205,7 @@ function Form(props) {
         setstate((previousState) => {
           return {
             ...previousState,
-            competencies: myJson,
+            occupationCompetency: myJson,
           };
         });
       });
@@ -294,20 +334,88 @@ function Form(props) {
         } else {
           results.push(evaluated);
         }
-
-        results.sort(function (a, b) {
-          return b.Score - a.Score;
-        });
-
-        newOccupationResults = results.slice(0, 25);
       }
+    });
 
-      setstate((previousState) => {
-        return {
-          ...previousState,
-          occupationResults: newOccupationResults,
-        };
-      });
+    results.sort(function (a, b) {
+      return b.Score - a.Score;
+    });
+
+    newOccupationResults = results.slice(0, 25);
+
+    setstate((previousState) => {
+      return {
+        ...previousState,
+        occupationResults: newOccupationResults,
+      };
+    });
+  };
+
+  const onChangeCoreCompetenciesValue = (e, index) => {
+    let { value } = e.target;
+    let myCompetency = state.competency;
+    myCompetency[index].Score = value;
+
+    setstate((previousState) => {
+      return {
+        ...previousState,
+        competency: myCompetency,
+      };
+    });
+
+    // //get the list of skills
+    // let mySkills = state.skill;
+
+    // identify matching occupations
+    let results = [];
+    let newOccupationResults = [];
+    state.occupationCompetency.forEach((req) => {
+      let evaluated = {};
+      evaluated = {
+        ANZSCOCode: req.ANZSCOCode,
+        Score: 0,
+      };
+      let curCompetency = myCompetency.filter(
+        (c) => req.CoreCompetencies === c.CoreCompetencies
+      )[0];
+
+      if (parseInt(curCompetency.Score) < parseInt(req.Score))
+        evaluated.Score = 0;
+      else if (parseInt(curCompetency.Score) === parseInt(req.Score))
+        evaluated.Score = 50;
+      else if (parseInt(curCompetency.Score) < parseInt(req.Score) + 1)
+        evaluated.Score = 100;
+      else evaluated.Score = 10; // occupations you're overqualified for. You'll get bored.
+
+      evaluated.ANZSCOTitle = state.occupations.filter(
+        (o) => o.ANZSCOCode === evaluated.ANZSCOCode
+      )[0].ANZSCOTitle;
+      let index = results
+        .map(function (e) {
+          return e.ANZSCOCode;
+        })
+        .indexOf(evaluated.ANZSCOCode);
+
+      if (index >= 0) {
+        results[index].Score += evaluated.Score;
+      } else {
+        results.push(evaluated);
+      }
+    });
+
+    results.sort(function (a, b) {
+      let e = b.Score - a.Score;
+      if (e === 0) e = Math.random() * 2 - 1;
+      return e;
+    });
+
+    newOccupationResults = results.slice(0, 25);
+
+    setstate((previousState) => {
+      return {
+        ...previousState,
+        occupationResults: newOccupationResults,
+      };
     });
   };
 
@@ -369,13 +477,13 @@ function Form(props) {
         } else {
           results.push(evaluated);
         }
-
-        results.sort(function (a, b) {
-          return b.Score - a.Score;
-        });
-
-        newOccupationResults = results.slice(0, 25);
       }
+
+      results.sort(function (a, b) {
+        return b.Score - a.Score;
+      });
+
+      newOccupationResults = results.slice(0, 25);
 
       setstate((previousState) => {
         return {
@@ -476,7 +584,43 @@ function Form(props) {
         </div>
       ) : null}
       {state.showForm && state.showForm === "competencies" ? (
-        <div>The competencies form</div>
+        <div className="col">
+          Please evaluate your competencies:
+          <table>
+            <thead>
+              <tr>
+                <th>Competency</th>
+                <th>Evaluation</th>
+              </tr>
+            </thead>
+            <tbody>
+              {state.competency.map((competency, index) => (
+                <tr key={index}>
+                  <td>{competency.CoreCompetencies}</td>
+                  <td>
+                    <select
+                      name={competency.CoreCompetencies}
+                      value={competency.Score}
+                      className="form-control"
+                      onChange={(e) => onChangeCoreCompetenciesValue(e, index)}
+                    >
+                      {state.competencies
+                        .filter(
+                          (e) =>
+                            e.CoreCompetencies === competency.CoreCompetencies
+                        )
+                        .map((data) => (
+                          <option key={data.Score} value={data.Score}>
+                            {data.AnchorValue}
+                          </option>
+                        ))}
+                    </select>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       ) : null}
       {state.showForm && state.showForm === "occupation" ? (
         <div className="col">
@@ -514,8 +658,8 @@ function Form(props) {
                   (skill) =>
                     skill.ANZSCOCode.toString() === state.occupation.toString()
                 )
-                .map((data) => (
-                  <tr>
+                .map((data, index) => (
+                  <tr key={index}>
                     <td>{data.ClusterFamily}</td>
                     <td>{data.SpecialistCluster}</td>
                     <td>{data.SpecialistTask}</td>
@@ -537,8 +681,8 @@ function Form(props) {
               </tr>
             </thead>
             <tbody>
-              {state.occupationResults.map((data) => (
-                <tr>
+              {state.occupationResults.map((data, index) => (
+                <tr key={index}>
                   <td>{data.ANZSCOTitle}</td>
                   <td>{data.Score}</td>
                 </tr>
