@@ -1,0 +1,2402 @@
+[
+  {
+    "ANZSCOCode": 1111,
+    "ANZSCOTitle": "Chief Executives and Managing Directors"
+  },
+  {
+    "ANZSCOCode": 1112,
+    "ANZSCOTitle": "General Managers"
+  },
+  {
+    "ANZSCOCode": 1213,
+    "ANZSCOTitle": "Livestock Farmers"
+  },
+  {
+    "ANZSCOCode": 1214,
+    "ANZSCOTitle": "Mixed Crop and Livestock Farmers"
+  },
+  {
+    "ANZSCOCode": 1321,
+    "ANZSCOTitle": "Corporate Services Managers"
+  },
+  {
+    "ANZSCOCode": 1322,
+    "ANZSCOTitle": "Finance Managers"
+  },
+  {
+    "ANZSCOCode": 1323,
+    "ANZSCOTitle": "Human Resource Managers"
+  },
+  {
+    "ANZSCOCode": 1324,
+    "ANZSCOTitle": "Policy and Planning Managers"
+  },
+  {
+    "ANZSCOCode": 1325,
+    "ANZSCOTitle": "Research and Development Managers"
+  },
+  {
+    "ANZSCOCode": 1331,
+    "ANZSCOTitle": "Construction Managers"
+  },
+  {
+    "ANZSCOCode": 1332,
+    "ANZSCOTitle": "Engineering Managers"
+  },
+  {
+    "ANZSCOCode": 1333,
+    "ANZSCOTitle": "Importers, Exporters and Wholesalers"
+  },
+  {
+    "ANZSCOCode": 1336,
+    "ANZSCOTitle": "Supply, Distribution and Procurement Managers"
+  },
+  {
+    "ANZSCOCode": 1341,
+    "ANZSCOTitle": "Child Care Centre Managers"
+  },
+  {
+    "ANZSCOCode": 1342,
+    "ANZSCOTitle": "Health and Welfare Services Managers"
+  },
+  {
+    "ANZSCOCode": 1343,
+    "ANZSCOTitle": "School Principals"
+  },
+  {
+    "ANZSCOCode": 1344,
+    "ANZSCOTitle": "Other Education Managers"
+  },
+  {
+    "ANZSCOCode": 1351,
+    "ANZSCOTitle": "ICT Managers"
+  },
+  {
+    "ANZSCOCode": 1411,
+    "ANZSCOTitle": "Cafe and Restaurant Managers"
+  },
+  {
+    "ANZSCOCode": 1413,
+    "ANZSCOTitle": "Hotel and Motel Managers"
+  },
+  {
+    "ANZSCOCode": 1414,
+    "ANZSCOTitle": "Licensed Club Managers"
+  },
+  {
+    "ANZSCOCode": 1421,
+    "ANZSCOTitle": "Retail Managers"
+  },
+  {
+    "ANZSCOCode": 1491,
+    "ANZSCOTitle": "Amusement, Fitness and Sports Centre Managers"
+  },
+  {
+    "ANZSCOCode": 1493,
+    "ANZSCOTitle": "Conference and Event Organisers"
+  },
+  {
+    "ANZSCOCode": 2113,
+    "ANZSCOTitle": "Photographers"
+  },
+  {
+    "ANZSCOCode": 2114,
+    "ANZSCOTitle": "Visual Arts and Crafts Professionals"
+  },
+  {
+    "ANZSCOCode": 2123,
+    "ANZSCOTitle": "Film, Television, Radio and Stage Directors"
+  },
+  {
+    "ANZSCOCode": 2124,
+    "ANZSCOTitle": "Journalists and Other Writers"
+  },
+  {
+    "ANZSCOCode": 2221,
+    "ANZSCOTitle": "Financial Brokers"
+  },
+  {
+    "ANZSCOCode": 2222,
+    "ANZSCOTitle": "Financial Dealers"
+  },
+  {
+    "ANZSCOCode": 2232,
+    "ANZSCOTitle": "ICT Trainers"
+  },
+  {
+    "ANZSCOCode": 2233,
+    "ANZSCOTitle": "Training and Development Professionals"
+  },
+  {
+    "ANZSCOCode": 2243,
+    "ANZSCOTitle": "Economists"
+  },
+  {
+    "ANZSCOCode": 2245,
+    "ANZSCOTitle": "Land Economists and Valuers"
+  },
+  {
+    "ANZSCOCode": 2246,
+    "ANZSCOTitle": "Librarians"
+  },
+  {
+    "ANZSCOCode": 2251,
+    "ANZSCOTitle": "Advertising and Marketing Professionals"
+  },
+  {
+    "ANZSCOCode": 2252,
+    "ANZSCOTitle": "ICT Sales Professionals"
+  },
+  {
+    "ANZSCOCode": 2253,
+    "ANZSCOTitle": "Public Relations Professionals"
+  },
+  {
+    "ANZSCOCode": 2254,
+    "ANZSCOTitle": "Technical Sales Representatives"
+  },
+  {
+    "ANZSCOCode": 2311,
+    "ANZSCOTitle": "Air Transport Professionals"
+  },
+  {
+    "ANZSCOCode": 2322,
+    "ANZSCOTitle": "Surveyors and Spatial Scientists"
+  },
+  {
+    "ANZSCOCode": 2325,
+    "ANZSCOTitle": "Interior Designers"
+  },
+  {
+    "ANZSCOCode": 2326,
+    "ANZSCOTitle": "Urban and Regional Planners"
+  },
+  {
+    "ANZSCOCode": 2333,
+    "ANZSCOTitle": "Electrical Engineers"
+  },
+  {
+    "ANZSCOCode": 2334,
+    "ANZSCOTitle": "Electronics Engineers"
+  },
+  {
+    "ANZSCOCode": 2341,
+    "ANZSCOTitle": "Agricultural and Forestry Scientists"
+  },
+  {
+    "ANZSCOCode": 2344,
+    "ANZSCOTitle": "Geologists, Geophysicists and Hydrogeologists"
+  },
+  {
+    "ANZSCOCode": 2346,
+    "ANZSCOTitle": "Medical Laboratory Scientists"
+  },
+  {
+    "ANZSCOCode": 2347,
+    "ANZSCOTitle": "Veterinarians"
+  },
+  {
+    "ANZSCOCode": 2411,
+    "ANZSCOTitle": "Early Childhood (Pre-primary School) Teachers"
+  },
+  {
+    "ANZSCOCode": 2412,
+    "ANZSCOTitle": "Primary School Teachers"
+  },
+  {
+    "ANZSCOCode": 2413,
+    "ANZSCOTitle": "Middle School Teachers"
+  },
+  {
+    "ANZSCOCode": 2414,
+    "ANZSCOTitle": "Secondary School Teachers"
+  },
+  {
+    "ANZSCOCode": 2415,
+    "ANZSCOTitle": "Special Education Teachers"
+  },
+  {
+    "ANZSCOCode": 2422,
+    "ANZSCOTitle": "Vocational Education Teachers"
+  },
+  {
+    "ANZSCOCode": 2491,
+    "ANZSCOTitle": "Education Advisers and Reviewers"
+  },
+  {
+    "ANZSCOCode": 2492,
+    "ANZSCOTitle": "Private Tutors and Teachers"
+  },
+  {
+    "ANZSCOCode": 2511,
+    "ANZSCOTitle": "Nutrition Professionals"
+  },
+  {
+    "ANZSCOCode": 2521,
+    "ANZSCOTitle": "Chiropractors and Osteopaths"
+  },
+  {
+    "ANZSCOCode": 2522,
+    "ANZSCOTitle": "Complementary Health Therapists"
+  },
+  {
+    "ANZSCOCode": 2523,
+    "ANZSCOTitle": "Dental Practitioners"
+  },
+  {
+    "ANZSCOCode": 2524,
+    "ANZSCOTitle": "Occupational Therapists"
+  },
+  {
+    "ANZSCOCode": 2525,
+    "ANZSCOTitle": "Physiotherapists"
+  },
+  {
+    "ANZSCOCode": 2526,
+    "ANZSCOTitle": "Podiatrists"
+  },
+  {
+    "ANZSCOCode": 2532,
+    "ANZSCOTitle": "Anaesthetists"
+  },
+  {
+    "ANZSCOCode": 2533,
+    "ANZSCOTitle": "Specialist Physicians"
+  },
+  {
+    "ANZSCOCode": 2534,
+    "ANZSCOTitle": "Psychiatrists"
+  },
+  {
+    "ANZSCOCode": 2535,
+    "ANZSCOTitle": "Surgeons"
+  },
+  {
+    "ANZSCOCode": 2541,
+    "ANZSCOTitle": "Midwives"
+  },
+  {
+    "ANZSCOCode": 2543,
+    "ANZSCOTitle": "Nurse Managers"
+  },
+  {
+    "ANZSCOCode": 2544,
+    "ANZSCOTitle": "Registered Nurses"
+  },
+  {
+    "ANZSCOCode": 2611,
+    "ANZSCOTitle": "ICT Business and Systems Analysts"
+  },
+  {
+    "ANZSCOCode": 2633,
+    "ANZSCOTitle": "Telecommunications Engineering Professionals"
+  },
+  {
+    "ANZSCOCode": 2711,
+    "ANZSCOTitle": "Barristers"
+  },
+  {
+    "ANZSCOCode": 2712,
+    "ANZSCOTitle": "Judicial and Other Legal Professionals"
+  },
+  {
+    "ANZSCOCode": 2713,
+    "ANZSCOTitle": "Solicitors"
+  },
+  {
+    "ANZSCOCode": 2721,
+    "ANZSCOTitle": "Counsellors"
+  },
+  {
+    "ANZSCOCode": 2722,
+    "ANZSCOTitle": "Ministers of Religion"
+  },
+  {
+    "ANZSCOCode": 2724,
+    "ANZSCOTitle": "Social Professionals"
+  },
+  {
+    "ANZSCOCode": 2725,
+    "ANZSCOTitle": "Social Workers"
+  },
+  {
+    "ANZSCOCode": 3111,
+    "ANZSCOTitle": "Agricultural Technicians"
+  },
+  {
+    "ANZSCOCode": 3113,
+    "ANZSCOTitle": "Primary Products Inspectors"
+  },
+  {
+    "ANZSCOCode": 3124,
+    "ANZSCOTitle": "Electronic Engineering Draftspersons and Technicians"
+  },
+  {
+    "ANZSCOCode": 3132,
+    "ANZSCOTitle": "Telecommunications Technical Specialists"
+  },
+  {
+    "ANZSCOCode": 3211,
+    "ANZSCOTitle": "Automotive Electricians"
+  },
+  {
+    "ANZSCOCode": 3221,
+    "ANZSCOTitle": "Metal Casting, Forging and Finishing Trades Workers"
+  },
+  {
+    "ANZSCOCode": 3222,
+    "ANZSCOTitle": "Sheetmetal Trades Workers"
+  },
+  {
+    "ANZSCOCode": 3241,
+    "ANZSCOTitle": "Panelbeaters"
+  },
+  {
+    "ANZSCOCode": 3242,
+    "ANZSCOTitle": "Vehicle Body Builders and Trimmers"
+  },
+  {
+    "ANZSCOCode": 3243,
+    "ANZSCOTitle": "Vehicle Painters"
+  },
+  {
+    "ANZSCOCode": 3321,
+    "ANZSCOTitle": "Floor Finishers"
+  },
+  {
+    "ANZSCOCode": 3322,
+    "ANZSCOTitle": "Painting Trades Workers"
+  },
+  {
+    "ANZSCOCode": 3331,
+    "ANZSCOTitle": "Glaziers"
+  },
+  {
+    "ANZSCOCode": 3333,
+    "ANZSCOTitle": "Roof Tilers"
+  },
+  {
+    "ANZSCOCode": 3334,
+    "ANZSCOTitle": "Wall and Floor Tilers"
+  },
+  {
+    "ANZSCOCode": 3411,
+    "ANZSCOTitle": "Electricians"
+  },
+  {
+    "ANZSCOCode": 3421,
+    "ANZSCOTitle": "Airconditioning and Refrigeration Mechanics"
+  },
+  {
+    "ANZSCOCode": 3422,
+    "ANZSCOTitle": "Electrical Distribution Trades Workers"
+  },
+  {
+    "ANZSCOCode": 3424,
+    "ANZSCOTitle": "Telecommunications Trades Workers"
+  },
+  {
+    "ANZSCOCode": 3511,
+    "ANZSCOTitle": "Bakers and Pastrycooks"
+  },
+  {
+    "ANZSCOCode": 3512,
+    "ANZSCOTitle": "Butchers and Smallgoods Makers"
+  },
+  {
+    "ANZSCOCode": 3513,
+    "ANZSCOTitle": "Chefs"
+  },
+  {
+    "ANZSCOCode": 3514,
+    "ANZSCOTitle": "Cooks"
+  },
+  {
+    "ANZSCOCode": 3611,
+    "ANZSCOTitle": "Animal Attendants and Trainers"
+  },
+  {
+    "ANZSCOCode": 3613,
+    "ANZSCOTitle": "Veterinary Nurses"
+  },
+  {
+    "ANZSCOCode": 3621,
+    "ANZSCOTitle": "Florists"
+  },
+  {
+    "ANZSCOCode": 3622,
+    "ANZSCOTitle": "Gardeners"
+  },
+  {
+    "ANZSCOCode": 3623,
+    "ANZSCOTitle": "Greenkeepers"
+  },
+  {
+    "ANZSCOCode": 3624,
+    "ANZSCOTitle": "Nurserypersons"
+  },
+  {
+    "ANZSCOCode": 3911,
+    "ANZSCOTitle": "Hairdressers"
+  },
+  {
+    "ANZSCOCode": 3922,
+    "ANZSCOTitle": "Graphic Pre-press Trades Workers"
+  },
+  {
+    "ANZSCOCode": 3923,
+    "ANZSCOTitle": "Printers"
+  },
+  {
+    "ANZSCOCode": 3933,
+    "ANZSCOTitle": "Upholsterers"
+  },
+  {
+    "ANZSCOCode": 3941,
+    "ANZSCOTitle": "Cabinetmakers"
+  },
+  {
+    "ANZSCOCode": 3991,
+    "ANZSCOTitle": "Boat Builders and Shipwrights"
+  },
+  {
+    "ANZSCOCode": 3994,
+    "ANZSCOTitle": "Jewellers"
+  },
+  {
+    "ANZSCOCode": 3996,
+    "ANZSCOTitle": "Signwriters"
+  },
+  {
+    "ANZSCOCode": 4111,
+    "ANZSCOTitle": "Ambulance Officers and Paramedics"
+  },
+  {
+    "ANZSCOCode": 4113,
+    "ANZSCOTitle": "Diversional Therapists"
+  },
+  {
+    "ANZSCOCode": 4115,
+    "ANZSCOTitle": "Indigenous Health Workers"
+  },
+  {
+    "ANZSCOCode": 4116,
+    "ANZSCOTitle": "Massage Therapists"
+  },
+  {
+    "ANZSCOCode": 4221,
+    "ANZSCOTitle": "Education Aides"
+  },
+  {
+    "ANZSCOCode": 4231,
+    "ANZSCOTitle": "Aged and Disabled Carers"
+  },
+  {
+    "ANZSCOCode": 4232,
+    "ANZSCOTitle": "Dental Assistants"
+  },
+  {
+    "ANZSCOCode": 4234,
+    "ANZSCOTitle": "Special Care Workers"
+  },
+  {
+    "ANZSCOCode": 4312,
+    "ANZSCOTitle": "Cafe Workers"
+  },
+  {
+    "ANZSCOCode": 4313,
+    "ANZSCOTitle": "Gaming Workers"
+  },
+  {
+    "ANZSCOCode": 4314,
+    "ANZSCOTitle": "Hotel Service Managers"
+  },
+  {
+    "ANZSCOCode": 4315,
+    "ANZSCOTitle": "Waiters"
+  },
+  {
+    "ANZSCOCode": 4421,
+    "ANZSCOTitle": "Prison Officers"
+  },
+  {
+    "ANZSCOCode": 4511,
+    "ANZSCOTitle": "Beauty Therapists"
+  },
+  {
+    "ANZSCOCode": 4512,
+    "ANZSCOTitle": "Driving Instructors"
+  },
+  {
+    "ANZSCOCode": 4513,
+    "ANZSCOTitle": "Funeral Workers"
+  },
+  {
+    "ANZSCOCode": 4514,
+    "ANZSCOTitle": "Gallery, Museum and Tour Guides"
+  },
+  {
+    "ANZSCOCode": 4517,
+    "ANZSCOTitle": "Travel Attendants"
+  },
+  {
+    "ANZSCOCode": 4521,
+    "ANZSCOTitle": "Fitness Instructors"
+  },
+  {
+    "ANZSCOCode": 4522,
+    "ANZSCOTitle": "Outdoor Adventure Guides"
+  },
+  {
+    "ANZSCOCode": 4523,
+    "ANZSCOTitle": "Sports Coaches, Instructors and Officials"
+  },
+  {
+    "ANZSCOCode": 4524,
+    "ANZSCOTitle": "Sportspersons"
+  },
+  {
+    "ANZSCOCode": 5121,
+    "ANZSCOTitle": "Office Managers"
+  },
+  {
+    "ANZSCOCode": 5211,
+    "ANZSCOTitle": "Personal Assistants"
+  },
+  {
+    "ANZSCOCode": 5311,
+    "ANZSCOTitle": "General Clerks"
+  },
+  {
+    "ANZSCOCode": 5412,
+    "ANZSCOTitle": "Information Officers"
+  },
+  {
+    "ANZSCOCode": 5512,
+    "ANZSCOTitle": "Bookkeepers"
+  },
+  {
+    "ANZSCOCode": 5513,
+    "ANZSCOTitle": "Payroll Clerks"
+  },
+  {
+    "ANZSCOCode": 5521,
+    "ANZSCOTitle": "Bank Workers"
+  },
+  {
+    "ANZSCOCode": 5522,
+    "ANZSCOTitle": "Credit and Loans Officers"
+  },
+  {
+    "ANZSCOCode": 5611,
+    "ANZSCOTitle": "Betting Clerks"
+  },
+  {
+    "ANZSCOCode": 5613,
+    "ANZSCOTitle": "Filing and Registry Clerks"
+  },
+  {
+    "ANZSCOCode": 5614,
+    "ANZSCOTitle": "Mail Sorters"
+  },
+  {
+    "ANZSCOCode": 5615,
+    "ANZSCOTitle": "Survey Interviewers"
+  },
+  {
+    "ANZSCOCode": 5616,
+    "ANZSCOTitle": "Switchboard Operators"
+  },
+  {
+    "ANZSCOCode": 5912,
+    "ANZSCOTitle": "Transport and Despatch Clerks"
+  },
+  {
+    "ANZSCOCode": 5991,
+    "ANZSCOTitle": "Conveyancers and Legal Executives"
+  },
+  {
+    "ANZSCOCode": 5992,
+    "ANZSCOTitle": "Court and Legal Clerks"
+  },
+  {
+    "ANZSCOCode": 5993,
+    "ANZSCOTitle": "Debt Collectors"
+  },
+  {
+    "ANZSCOCode": 5994,
+    "ANZSCOTitle": "Human Resource Clerks"
+  },
+  {
+    "ANZSCOCode": 5995,
+    "ANZSCOTitle": "Inspectors and Regulatory Officers"
+  },
+  {
+    "ANZSCOCode": 5996,
+    "ANZSCOTitle": "Insurance Investigators, Loss Adjusters and Risk Surveyors"
+  },
+  {
+    "ANZSCOCode": 5997,
+    "ANZSCOTitle": "Library Assistants"
+  },
+  {
+    "ANZSCOCode": 6111,
+    "ANZSCOTitle": "Auctioneers, and Stock and Station Agents"
+  },
+  {
+    "ANZSCOCode": 6112,
+    "ANZSCOTitle": "Insurance Agents"
+  },
+  {
+    "ANZSCOCode": 6113,
+    "ANZSCOTitle": "Sales Representatives"
+  },
+  {
+    "ANZSCOCode": 6211,
+    "ANZSCOTitle": "Sales Assistants (General)"
+  },
+  {
+    "ANZSCOCode": 6214,
+    "ANZSCOTitle": "Pharmacy Sales Assistants"
+  },
+  {
+    "ANZSCOCode": 6215,
+    "ANZSCOTitle": "Retail Supervisors"
+  },
+  {
+    "ANZSCOCode": 6217,
+    "ANZSCOTitle": "Street Vendors and Related Salespersons"
+  },
+  {
+    "ANZSCOCode": 6311,
+    "ANZSCOTitle": "Checkout Operators and Office Cashiers"
+  },
+  {
+    "ANZSCOCode": 6393,
+    "ANZSCOTitle": "Telemarketers"
+  },
+  {
+    "ANZSCOCode": 6394,
+    "ANZSCOTitle": "Ticket Salespersons"
+  },
+  {
+    "ANZSCOCode": 6395,
+    "ANZSCOTitle": "Visual Merchandisers"
+  },
+  {
+    "ANZSCOCode": 7111,
+    "ANZSCOTitle": "Clay, Concrete, Glass and Stone Processing Machine Operators"
+  },
+  {
+    "ANZSCOCode": 7112,
+    "ANZSCOTitle": "Industrial Spraypainters"
+  },
+  {
+    "ANZSCOCode": 7113,
+    "ANZSCOTitle": "Paper and Wood Processing Machine Operators"
+  },
+  {
+    "ANZSCOCode": 7114,
+    "ANZSCOTitle": "Photographic Developers and Printers"
+  },
+  {
+    "ANZSCOCode": 7115,
+    "ANZSCOTitle": "Plastics and Rubber Production Machine Operators"
+  },
+  {
+    "ANZSCOCode": 7116,
+    "ANZSCOTitle": "Sewing Machinists"
+  },
+  {
+    "ANZSCOCode": 7117,
+    "ANZSCOTitle": "Textile and Footwear Production Machine Operators"
+  },
+  {
+    "ANZSCOCode": 7121,
+    "ANZSCOTitle": "Crane, Hoist and Lift Operators"
+  },
+  {
+    "ANZSCOCode": 7123,
+    "ANZSCOTitle": "Engineering Production Workers"
+  },
+  {
+    "ANZSCOCode": 7213,
+    "ANZSCOTitle": "Forklift Drivers"
+  },
+  {
+    "ANZSCOCode": 7311,
+    "ANZSCOTitle": "Automobile Drivers"
+  },
+  {
+    "ANZSCOCode": 7312,
+    "ANZSCOTitle": "Bus and Coach Drivers"
+  },
+  {
+    "ANZSCOCode": 7321,
+    "ANZSCOTitle": "Delivery Drivers"
+  },
+  {
+    "ANZSCOCode": 7331,
+    "ANZSCOTitle": "Truck Drivers"
+  },
+  {
+    "ANZSCOCode": 7411,
+    "ANZSCOTitle": "Storepersons"
+  },
+  {
+    "ANZSCOCode": 8111,
+    "ANZSCOTitle": "Car Detailers"
+  },
+  {
+    "ANZSCOCode": 8112,
+    "ANZSCOTitle": "Commercial Cleaners"
+  },
+  {
+    "ANZSCOCode": 8113,
+    "ANZSCOTitle": "Domestic Cleaners"
+  },
+  {
+    "ANZSCOCode": 8114,
+    "ANZSCOTitle": "Housekeepers"
+  },
+  {
+    "ANZSCOCode": 8115,
+    "ANZSCOTitle": "Laundry Workers"
+  },
+  {
+    "ANZSCOCode": 8212,
+    "ANZSCOTitle": "Concreters"
+  },
+  {
+    "ANZSCOCode": 8213,
+    "ANZSCOTitle": "Fencers"
+  },
+  {
+    "ANZSCOCode": 8215,
+    "ANZSCOTitle": "Paving and Surfacing Labourers"
+  },
+  {
+    "ANZSCOCode": 8216,
+    "ANZSCOTitle": "Railway Track Workers"
+  },
+  {
+    "ANZSCOCode": 8311,
+    "ANZSCOTitle": "Food and Drink Factory Workers"
+  },
+  {
+    "ANZSCOCode": 8313,
+    "ANZSCOTitle": "Meat, Poultry and Seafood Process Workers"
+  },
+  {
+    "ANZSCOCode": 8321,
+    "ANZSCOTitle": "Packers"
+  },
+  {
+    "ANZSCOCode": 8322,
+    "ANZSCOTitle": "Product Assemblers"
+  },
+  {
+    "ANZSCOCode": 8399,
+    "ANZSCOTitle": "Other Factory Process Workers"
+  },
+  {
+    "ANZSCOCode": 8412,
+    "ANZSCOTitle": "Crop Farm Workers"
+  },
+  {
+    "ANZSCOCode": 8414,
+    "ANZSCOTitle": "Garden and Nursery Labourers"
+  },
+  {
+    "ANZSCOCode": 8415,
+    "ANZSCOTitle": "Livestock Farm Workers"
+  },
+  {
+    "ANZSCOCode": 8416,
+    "ANZSCOTitle": "Mixed Crop and Livestock Farm Workers"
+  },
+  {
+    "ANZSCOCode": 8511,
+    "ANZSCOTitle": "Fast Food Cooks"
+  },
+  {
+    "ANZSCOCode": 8512,
+    "ANZSCOTitle": "Food Trades Assistants"
+  },
+  {
+    "ANZSCOCode": 8513,
+    "ANZSCOTitle": "Kitchenhands"
+  },
+  {
+    "ANZSCOCode": 8911,
+    "ANZSCOTitle": "Freight and Furniture Handlers"
+  },
+  {
+    "ANZSCOCode": 8912,
+    "ANZSCOTitle": "Shelf Fillers"
+  },
+  {
+    "ANZSCOCode": 8991,
+    "ANZSCOTitle": "Caretakers"
+  },
+  {
+    "ANZSCOCode": 8993,
+    "ANZSCOTitle": "Handypersons"
+  },
+  {
+    "ANZSCOCode": 8994,
+    "ANZSCOTitle": "Motor Vehicle Parts and Accessories Fitters"
+  },
+  {
+    "ANZSCOCode": 8996,
+    "ANZSCOTitle": "Recycling and Rubbish Collectors"
+  },
+  {
+    "ANZSCOCode": 8997,
+    "ANZSCOTitle": "Vending Machine Attendants"
+  },
+  {
+    "ANZSCOCode": 131112,
+    "ANZSCOTitle": "Sales and Marketing Manager"
+  },
+  {
+    "ANZSCOCode": 131113,
+    "ANZSCOTitle": "Advertising Manager"
+  },
+  {
+    "ANZSCOCode": 131114,
+    "ANZSCOTitle": "Public Relations Manager"
+  },
+  {
+    "ANZSCOCode": 133512,
+    "ANZSCOTitle": "Production Manager (Manufacturing)"
+  },
+  {
+    "ANZSCOCode": 133513,
+    "ANZSCOTitle": "Production Manager (Mining)"
+  },
+  {
+    "ANZSCOCode": 134411,
+    "ANZSCOTitle": "Faculty Head"
+  },
+  {
+    "ANZSCOCode": 135111,
+    "ANZSCOTitle": "Chief Information Officer"
+  },
+  {
+    "ANZSCOCode": 139912,
+    "ANZSCOTitle": "Environmental Manager"
+  },
+  {
+    "ANZSCOCode": 139913,
+    "ANZSCOTitle": "Laboratory Manager"
+  },
+  {
+    "ANZSCOCode": 139914,
+    "ANZSCOTitle": "Quality Assurance Manager"
+  },
+  {
+    "ANZSCOCode": 142114,
+    "ANZSCOTitle": "Hair or Beauty Salon Manager"
+  },
+  {
+    "ANZSCOCode": 142115,
+    "ANZSCOTitle": "Post Office Manager"
+  },
+  {
+    "ANZSCOCode": 149211,
+    "ANZSCOTitle": "Call or Contact Centre Manager"
+  },
+  {
+    "ANZSCOCode": 149212,
+    "ANZSCOTitle": "Customer Service Manager"
+  },
+  {
+    "ANZSCOCode": 149411,
+    "ANZSCOTitle": "Fleet Manager"
+  },
+  {
+    "ANZSCOCode": 149413,
+    "ANZSCOTitle": "Transport Company Manager"
+  },
+  {
+    "ANZSCOCode": 149913,
+    "ANZSCOTitle": "Facilities Manager"
+  },
+  {
+    "ANZSCOCode": 149914,
+    "ANZSCOTitle": "Financial Institution Branch Manager"
+  },
+  {
+    "ANZSCOCode": 211111,
+    "ANZSCOTitle": "Actor"
+  },
+  {
+    "ANZSCOCode": 211112,
+    "ANZSCOTitle": "Dancer or Choreographer"
+  },
+  {
+    "ANZSCOCode": 211113,
+    "ANZSCOTitle": "Entertainer or Variety Artist"
+  },
+  {
+    "ANZSCOCode": 211211,
+    "ANZSCOTitle": "Composer"
+  },
+  {
+    "ANZSCOCode": 211213,
+    "ANZSCOTitle": "Musician (Instrumental)"
+  },
+  {
+    "ANZSCOCode": 211214,
+    "ANZSCOTitle": "Singer"
+  },
+  {
+    "ANZSCOCode": 212111,
+    "ANZSCOTitle": "Artistic Director"
+  },
+  {
+    "ANZSCOCode": 212112,
+    "ANZSCOTitle": "Media Producer (excluding Video)"
+  },
+  {
+    "ANZSCOCode": 212113,
+    "ANZSCOTitle": "Radio Presenter"
+  },
+  {
+    "ANZSCOCode": 212211,
+    "ANZSCOTitle": "Author"
+  },
+  {
+    "ANZSCOCode": 212212,
+    "ANZSCOTitle": "Book or Script Editor"
+  },
+  {
+    "ANZSCOCode": 212314,
+    "ANZSCOTitle": "Film and Video Editor"
+  },
+  {
+    "ANZSCOCode": 212411,
+    "ANZSCOTitle": "Copywriter"
+  },
+  {
+    "ANZSCOCode": 212415,
+    "ANZSCOTitle": "Technical Writer"
+  },
+  {
+    "ANZSCOCode": 221111,
+    "ANZSCOTitle": "Accountant (General)"
+  },
+  {
+    "ANZSCOCode": 221112,
+    "ANZSCOTitle": "Management Accountant"
+  },
+  {
+    "ANZSCOCode": 221113,
+    "ANZSCOTitle": "Taxation Accountant"
+  },
+  {
+    "ANZSCOCode": 221212,
+    "ANZSCOTitle": "Corporate Treasurer"
+  },
+  {
+    "ANZSCOCode": 221213,
+    "ANZSCOTitle": "External Auditor"
+  },
+  {
+    "ANZSCOCode": 221214,
+    "ANZSCOTitle": "Internal Auditor"
+  },
+  {
+    "ANZSCOCode": 222111,
+    "ANZSCOTitle": "Commodities Trader"
+  },
+  {
+    "ANZSCOCode": 222311,
+    "ANZSCOTitle": "Financial Investment Adviser"
+  },
+  {
+    "ANZSCOCode": 222312,
+    "ANZSCOTitle": "Financial Investment Manager"
+  },
+  {
+    "ANZSCOCode": 223111,
+    "ANZSCOTitle": "Human Resource Adviser"
+  },
+  {
+    "ANZSCOCode": 223112,
+    "ANZSCOTitle": "Recruitment Consultant"
+  },
+  {
+    "ANZSCOCode": 223113,
+    "ANZSCOTitle": "Workplace Relations Adviser"
+  },
+  {
+    "ANZSCOCode": 224111,
+    "ANZSCOTitle": "Actuary"
+  },
+  {
+    "ANZSCOCode": 224112,
+    "ANZSCOTitle": "Mathematician"
+  },
+  {
+    "ANZSCOCode": 224113,
+    "ANZSCOTitle": "Statistician"
+  },
+  {
+    "ANZSCOCode": 224211,
+    "ANZSCOTitle": "Archivist"
+  },
+  {
+    "ANZSCOCode": 224212,
+    "ANZSCOTitle": "Gallery or Museum Curator"
+  },
+  {
+    "ANZSCOCode": 224213,
+    "ANZSCOTitle": "Health Information Manager"
+  },
+  {
+    "ANZSCOCode": 224214,
+    "ANZSCOTitle": "Records Manager"
+  },
+  {
+    "ANZSCOCode": 224411,
+    "ANZSCOTitle": "Intelligence Officer"
+  },
+  {
+    "ANZSCOCode": 224412,
+    "ANZSCOTitle": "Policy Analyst"
+  },
+  {
+    "ANZSCOCode": 224512,
+    "ANZSCOTitle": "Valuer"
+  },
+  {
+    "ANZSCOCode": 224711,
+    "ANZSCOTitle": "Management Consultant"
+  },
+  {
+    "ANZSCOCode": 224712,
+    "ANZSCOTitle": "Organisation and Methods Analyst"
+  },
+  {
+    "ANZSCOCode": 224912,
+    "ANZSCOTitle": "Liaison Officer"
+  },
+  {
+    "ANZSCOCode": 225112,
+    "ANZSCOTitle": "Market Research Analyst"
+  },
+  {
+    "ANZSCOCode": 225113,
+    "ANZSCOTitle": "Marketing Specialist"
+  },
+  {
+    "ANZSCOCode": 231111,
+    "ANZSCOTitle": "Aeroplane Pilot"
+  },
+  {
+    "ANZSCOCode": 231112,
+    "ANZSCOTitle": "Air Traffic Controller"
+  },
+  {
+    "ANZSCOCode": 231213,
+    "ANZSCOTitle": "Ship's Master"
+  },
+  {
+    "ANZSCOCode": 231214,
+    "ANZSCOTitle": "Ship's Officer"
+  },
+  {
+    "ANZSCOCode": 232111,
+    "ANZSCOTitle": "Architect"
+  },
+  {
+    "ANZSCOCode": 232112,
+    "ANZSCOTitle": "Landscape Architect"
+  },
+  {
+    "ANZSCOCode": 232311,
+    "ANZSCOTitle": "Fashion Designer"
+  },
+  {
+    "ANZSCOCode": 232312,
+    "ANZSCOTitle": "Industrial Designer"
+  },
+  {
+    "ANZSCOCode": 232411,
+    "ANZSCOTitle": "Graphic Designer"
+  },
+  {
+    "ANZSCOCode": 232412,
+    "ANZSCOTitle": "Illustrator"
+  },
+  {
+    "ANZSCOCode": 232413,
+    "ANZSCOTitle": "Multimedia Designer"
+  },
+  {
+    "ANZSCOCode": 232414,
+    "ANZSCOTitle": "Web Designer"
+  },
+  {
+    "ANZSCOCode": 233111,
+    "ANZSCOTitle": "Chemical Engineer"
+  },
+  {
+    "ANZSCOCode": 233112,
+    "ANZSCOTitle": "Materials Engineer"
+  },
+  {
+    "ANZSCOCode": 233211,
+    "ANZSCOTitle": "Civil Engineer"
+  },
+  {
+    "ANZSCOCode": 233212,
+    "ANZSCOTitle": "Geotechnical Engineer"
+  },
+  {
+    "ANZSCOCode": 233213,
+    "ANZSCOTitle": "Quantity Surveyor"
+  },
+  {
+    "ANZSCOCode": 233214,
+    "ANZSCOTitle": "Structural Engineer"
+  },
+  {
+    "ANZSCOCode": 233215,
+    "ANZSCOTitle": "Transport Engineer"
+  },
+  {
+    "ANZSCOCode": 233511,
+    "ANZSCOTitle": "Industrial Engineer"
+  },
+  {
+    "ANZSCOCode": 233512,
+    "ANZSCOTitle": "Mechanical Engineer"
+  },
+  {
+    "ANZSCOCode": 233513,
+    "ANZSCOTitle": "Production or Plant Engineer"
+  },
+  {
+    "ANZSCOCode": 233611,
+    "ANZSCOTitle": "Mining Engineer (excluding Petroleum)"
+  },
+  {
+    "ANZSCOCode": 233612,
+    "ANZSCOTitle": "Petroleum Engineer"
+  },
+  {
+    "ANZSCOCode": 233911,
+    "ANZSCOTitle": "Aeronautical Engineer"
+  },
+  {
+    "ANZSCOCode": 233913,
+    "ANZSCOTitle": "Biomedical Engineer"
+  },
+  {
+    "ANZSCOCode": 233914,
+    "ANZSCOTitle": "Engineering Technologist"
+  },
+  {
+    "ANZSCOCode": 233915,
+    "ANZSCOTitle": "Environmental Engineer"
+  },
+  {
+    "ANZSCOCode": 233916,
+    "ANZSCOTitle": "Naval Architect"
+  },
+  {
+    "ANZSCOCode": 234211,
+    "ANZSCOTitle": "Chemist"
+  },
+  {
+    "ANZSCOCode": 234212,
+    "ANZSCOTitle": "Food Technologist"
+  },
+  {
+    "ANZSCOCode": 234213,
+    "ANZSCOTitle": "Wine Maker"
+  },
+  {
+    "ANZSCOCode": 234311,
+    "ANZSCOTitle": "Conservation Officer"
+  },
+  {
+    "ANZSCOCode": 234312,
+    "ANZSCOTitle": "Environmental Consultant"
+  },
+  {
+    "ANZSCOCode": 234313,
+    "ANZSCOTitle": "Environmental Research Scientist"
+  },
+  {
+    "ANZSCOCode": 234314,
+    "ANZSCOTitle": "Park Ranger"
+  },
+  {
+    "ANZSCOCode": 234511,
+    "ANZSCOTitle": "Life Scientist (General)"
+  },
+  {
+    "ANZSCOCode": 234513,
+    "ANZSCOTitle": "Biochemist"
+  },
+  {
+    "ANZSCOCode": 234514,
+    "ANZSCOTitle": "Biotechnologist"
+  },
+  {
+    "ANZSCOCode": 234515,
+    "ANZSCOTitle": "Botanist"
+  },
+  {
+    "ANZSCOCode": 234517,
+    "ANZSCOTitle": "Microbiologist"
+  },
+  {
+    "ANZSCOCode": 234518,
+    "ANZSCOTitle": "Zoologist"
+  },
+  {
+    "ANZSCOCode": 234911,
+    "ANZSCOTitle": "Conservator"
+  },
+  {
+    "ANZSCOCode": 234912,
+    "ANZSCOTitle": "Metallurgist"
+  },
+  {
+    "ANZSCOCode": 234913,
+    "ANZSCOTitle": "Meteorologist"
+  },
+  {
+    "ANZSCOCode": 234914,
+    "ANZSCOTitle": "Physicist"
+  },
+  {
+    "ANZSCOCode": 242111,
+    "ANZSCOTitle": "University Lecturer"
+  },
+  {
+    "ANZSCOCode": 242112,
+    "ANZSCOTitle": "University Tutor"
+  },
+  {
+    "ANZSCOCode": 249212,
+    "ANZSCOTitle": "Dance Teacher (Private Tuition)"
+  },
+  {
+    "ANZSCOCode": 249214,
+    "ANZSCOTitle": "Music Teacher (Private Tuition)"
+  },
+  {
+    "ANZSCOCode": 251211,
+    "ANZSCOTitle": "Medical Diagnostic Radiographer"
+  },
+  {
+    "ANZSCOCode": 251212,
+    "ANZSCOTitle": "Medical Radiation Therapist"
+  },
+  {
+    "ANZSCOCode": 251213,
+    "ANZSCOTitle": "Nuclear Medicine Technologist"
+  },
+  {
+    "ANZSCOCode": 251214,
+    "ANZSCOTitle": "Sonographer"
+  },
+  {
+    "ANZSCOCode": 251311,
+    "ANZSCOTitle": "Environmental Health Officer"
+  },
+  {
+    "ANZSCOCode": 251312,
+    "ANZSCOTitle": "Occupational Health and Safety Adviser"
+  },
+  {
+    "ANZSCOCode": 251411,
+    "ANZSCOTitle": "Optometrist"
+  },
+  {
+    "ANZSCOCode": 251412,
+    "ANZSCOTitle": "Orthoptist"
+  },
+  {
+    "ANZSCOCode": 251511,
+    "ANZSCOTitle": "Hospital Pharmacist"
+  },
+  {
+    "ANZSCOCode": 251513,
+    "ANZSCOTitle": "Retail Pharmacist"
+  },
+  {
+    "ANZSCOCode": 251911,
+    "ANZSCOTitle": "Health Promotion Officer"
+  },
+  {
+    "ANZSCOCode": 251912,
+    "ANZSCOTitle": "Orthotist or Prosthetist"
+  },
+  {
+    "ANZSCOCode": 252211,
+    "ANZSCOTitle": "Acupuncturist"
+  },
+  {
+    "ANZSCOCode": 252213,
+    "ANZSCOTitle": "Naturopath"
+  },
+  {
+    "ANZSCOCode": 252711,
+    "ANZSCOTitle": "Audiologist"
+  },
+  {
+    "ANZSCOCode": 252712,
+    "ANZSCOTitle": "Speech Pathologist"
+  },
+  {
+    "ANZSCOCode": 253111,
+    "ANZSCOTitle": "General Practitioner"
+  },
+  {
+    "ANZSCOCode": 253112,
+    "ANZSCOTitle": "Resident Medical Officer"
+  },
+  {
+    "ANZSCOCode": 253317,
+    "ANZSCOTitle": "Intensive Care Specialist"
+  },
+  {
+    "ANZSCOCode": 253318,
+    "ANZSCOTitle": "Neurologist"
+  },
+  {
+    "ANZSCOCode": 253321,
+    "ANZSCOTitle": "Paediatrician"
+  },
+  {
+    "ANZSCOCode": 253324,
+    "ANZSCOTitle": "Thoracic Medicine Specialist"
+  },
+  {
+    "ANZSCOCode": 253911,
+    "ANZSCOTitle": "Dermatologist"
+  },
+  {
+    "ANZSCOCode": 253912,
+    "ANZSCOTitle": "Emergency Medicine Specialist"
+  },
+  {
+    "ANZSCOCode": 253913,
+    "ANZSCOTitle": "Obstetrician and Gynaecologist"
+  },
+  {
+    "ANZSCOCode": 253914,
+    "ANZSCOTitle": "Ophthalmologist"
+  },
+  {
+    "ANZSCOCode": 253915,
+    "ANZSCOTitle": "Pathologist"
+  },
+  {
+    "ANZSCOCode": 253917,
+    "ANZSCOTitle": "Diagnostic and Interventional Radiologist"
+  },
+  {
+    "ANZSCOCode": 254211,
+    "ANZSCOTitle": "Nurse Educator"
+  },
+  {
+    "ANZSCOCode": 254212,
+    "ANZSCOTitle": "Nurse Researcher"
+  },
+  {
+    "ANZSCOCode": 254411,
+    "ANZSCOTitle": "Nurse Practitioner"
+  },
+  {
+    "ANZSCOCode": 254412,
+    "ANZSCOTitle": "Registered Nurse (Aged Care)"
+  },
+  {
+    "ANZSCOCode": 254413,
+    "ANZSCOTitle": "Registered Nurse (Child and Family Health)"
+  },
+  {
+    "ANZSCOCode": 254414,
+    "ANZSCOTitle": "Registered Nurse (Community Health)"
+  },
+  {
+    "ANZSCOCode": 254415,
+    "ANZSCOTitle": "Registered Nurse (Critical Care and Emergency)"
+  },
+  {
+    "ANZSCOCode": 254416,
+    "ANZSCOTitle": "Registered Nurse (Developmental Disability)"
+  },
+  {
+    "ANZSCOCode": 254417,
+    "ANZSCOTitle": "Registered Nurse (Disability and Rehabilitation)"
+  },
+  {
+    "ANZSCOCode": 254418,
+    "ANZSCOTitle": "Registered Nurse (Medical)"
+  },
+  {
+    "ANZSCOCode": 254421,
+    "ANZSCOTitle": "Registered Nurse (Medical Practice)"
+  },
+  {
+    "ANZSCOCode": 254422,
+    "ANZSCOTitle": "Registered Nurse (Mental Health)"
+  },
+  {
+    "ANZSCOCode": 254423,
+    "ANZSCOTitle": "Registered Nurse (Perioperative)"
+  },
+  {
+    "ANZSCOCode": 254424,
+    "ANZSCOTitle": "Registered Nurse (Surgical)"
+  },
+  {
+    "ANZSCOCode": 254425,
+    "ANZSCOTitle": "Registered Nurse (Paediatrics)"
+  },
+  {
+    "ANZSCOCode": 261211,
+    "ANZSCOTitle": "Multimedia Specialist"
+  },
+  {
+    "ANZSCOCode": 261212,
+    "ANZSCOTitle": "Web Developer"
+  },
+  {
+    "ANZSCOCode": 261311,
+    "ANZSCOTitle": "Analyst Programmer"
+  },
+  {
+    "ANZSCOCode": 261312,
+    "ANZSCOTitle": "Developer Programmer"
+  },
+  {
+    "ANZSCOCode": 261313,
+    "ANZSCOTitle": "Software Engineer"
+  },
+  {
+    "ANZSCOCode": 261314,
+    "ANZSCOTitle": "Software Tester"
+  },
+  {
+    "ANZSCOCode": 262111,
+    "ANZSCOTitle": "Database Administrator"
+  },
+  {
+    "ANZSCOCode": 262112,
+    "ANZSCOTitle": "ICT Security Specialist"
+  },
+  {
+    "ANZSCOCode": 262113,
+    "ANZSCOTitle": "Systems Administrator"
+  },
+  {
+    "ANZSCOCode": 263111,
+    "ANZSCOTitle": "Computer Network and Systems Engineer"
+  },
+  {
+    "ANZSCOCode": 263112,
+    "ANZSCOTitle": "Network Administrator"
+  },
+  {
+    "ANZSCOCode": 263113,
+    "ANZSCOTitle": "Network Analyst"
+  },
+  {
+    "ANZSCOCode": 263211,
+    "ANZSCOTitle": "ICT Quality Assurance Engineer"
+  },
+  {
+    "ANZSCOCode": 263212,
+    "ANZSCOTitle": "ICT Support Engineer"
+  },
+  {
+    "ANZSCOCode": 263213,
+    "ANZSCOTitle": "ICT Systems Test Engineer"
+  },
+  {
+    "ANZSCOCode": 272111,
+    "ANZSCOTitle": "Careers Counsellor"
+  },
+  {
+    "ANZSCOCode": 272112,
+    "ANZSCOTitle": "Drug and Alcohol Counsellor"
+  },
+  {
+    "ANZSCOCode": 272113,
+    "ANZSCOTitle": "Family and Marriage Counsellor"
+  },
+  {
+    "ANZSCOCode": 272114,
+    "ANZSCOTitle": "Rehabilitation Counsellor"
+  },
+  {
+    "ANZSCOCode": 272115,
+    "ANZSCOTitle": "Student Counsellor"
+  },
+  {
+    "ANZSCOCode": 272311,
+    "ANZSCOTitle": "Clinical Psychologist"
+  },
+  {
+    "ANZSCOCode": 272312,
+    "ANZSCOTitle": "Educational Psychologist"
+  },
+  {
+    "ANZSCOCode": 272313,
+    "ANZSCOTitle": "Organisational Psychologist"
+  },
+  {
+    "ANZSCOCode": 272411,
+    "ANZSCOTitle": "Historian"
+  },
+  {
+    "ANZSCOCode": 272412,
+    "ANZSCOTitle": "Interpreter"
+  },
+  {
+    "ANZSCOCode": 272413,
+    "ANZSCOTitle": "Translator"
+  },
+  {
+    "ANZSCOCode": 272612,
+    "ANZSCOTitle": "Recreation Officer"
+  },
+  {
+    "ANZSCOCode": 272613,
+    "ANZSCOTitle": "Welfare Worker"
+  },
+  {
+    "ANZSCOCode": 311211,
+    "ANZSCOTitle": "Anaesthetic Technician"
+  },
+  {
+    "ANZSCOCode": 311212,
+    "ANZSCOTitle": "Cardiac Technician"
+  },
+  {
+    "ANZSCOCode": 311213,
+    "ANZSCOTitle": "Medical Laboratory Technician"
+  },
+  {
+    "ANZSCOCode": 311214,
+    "ANZSCOTitle": "Operating Theatre Technician"
+  },
+  {
+    "ANZSCOCode": 311215,
+    "ANZSCOTitle": "Pharmacy Technician"
+  },
+  {
+    "ANZSCOCode": 311216,
+    "ANZSCOTitle": "Pathology Collector"
+  },
+  {
+    "ANZSCOCode": 311411,
+    "ANZSCOTitle": "Chemistry Technician"
+  },
+  {
+    "ANZSCOCode": 311412,
+    "ANZSCOTitle": "Earth Science Technician"
+  },
+  {
+    "ANZSCOCode": 311413,
+    "ANZSCOTitle": "Life Science Technician"
+  },
+  {
+    "ANZSCOCode": 312111,
+    "ANZSCOTitle": "Architectural Draftsperson"
+  },
+  {
+    "ANZSCOCode": 312112,
+    "ANZSCOTitle": "Building Associate"
+  },
+  {
+    "ANZSCOCode": 312113,
+    "ANZSCOTitle": "Building Inspector"
+  },
+  {
+    "ANZSCOCode": 312114,
+    "ANZSCOTitle": "Construction Estimator"
+  },
+  {
+    "ANZSCOCode": 312116,
+    "ANZSCOTitle": "Surveying or Spatial Science Technician"
+  },
+  {
+    "ANZSCOCode": 312211,
+    "ANZSCOTitle": "Civil Engineering Draftsperson"
+  },
+  {
+    "ANZSCOCode": 312212,
+    "ANZSCOTitle": "Civil Engineering Technician"
+  },
+  {
+    "ANZSCOCode": 312311,
+    "ANZSCOTitle": "Electrical Engineering Draftsperson"
+  },
+  {
+    "ANZSCOCode": 312312,
+    "ANZSCOTitle": "Electrical Engineering Technician"
+  },
+  {
+    "ANZSCOCode": 312511,
+    "ANZSCOTitle": "Mechanical Engineering Draftsperson"
+  },
+  {
+    "ANZSCOCode": 312512,
+    "ANZSCOTitle": "Mechanical Engineering Technician"
+  },
+  {
+    "ANZSCOCode": 313111,
+    "ANZSCOTitle": "Hardware Technician"
+  },
+  {
+    "ANZSCOCode": 313112,
+    "ANZSCOTitle": "ICT Customer Support Officer"
+  },
+  {
+    "ANZSCOCode": 313113,
+    "ANZSCOTitle": "Web Administrator"
+  },
+  {
+    "ANZSCOCode": 321211,
+    "ANZSCOTitle": "Motor Mechanic (General)"
+  },
+  {
+    "ANZSCOCode": 321212,
+    "ANZSCOTitle": "Diesel Motor Mechanic"
+  },
+  {
+    "ANZSCOCode": 321213,
+    "ANZSCOTitle": "Motorcycle Mechanic"
+  },
+  {
+    "ANZSCOCode": 321214,
+    "ANZSCOTitle": "Small Engine Mechanic"
+  },
+  {
+    "ANZSCOCode": 322311,
+    "ANZSCOTitle": "Metal Fabricator"
+  },
+  {
+    "ANZSCOCode": 322313,
+    "ANZSCOTitle": "Welder (First Class)"
+  },
+  {
+    "ANZSCOCode": 323111,
+    "ANZSCOTitle": "Aircraft Maintenance Engineer (Avionics)"
+  },
+  {
+    "ANZSCOCode": 323112,
+    "ANZSCOTitle": "Aircraft Maintenance Engineer (Mechanical)"
+  },
+  {
+    "ANZSCOCode": 323211,
+    "ANZSCOTitle": "Fitter (General)"
+  },
+  {
+    "ANZSCOCode": 323214,
+    "ANZSCOTitle": "Metal Machinist (First Class)"
+  },
+  {
+    "ANZSCOCode": 323313,
+    "ANZSCOTitle": "Locksmith"
+  },
+  {
+    "ANZSCOCode": 323314,
+    "ANZSCOTitle": "Precision Instrument Maker and Repairer"
+  },
+  {
+    "ANZSCOCode": 323316,
+    "ANZSCOTitle": "Watch and Clock Maker and Repairer"
+  },
+  {
+    "ANZSCOCode": 323411,
+    "ANZSCOTitle": "Engineering Patternmaker"
+  },
+  {
+    "ANZSCOCode": 323412,
+    "ANZSCOTitle": "Toolmaker"
+  },
+  {
+    "ANZSCOCode": 331111,
+    "ANZSCOTitle": "Bricklayer"
+  },
+  {
+    "ANZSCOCode": 331112,
+    "ANZSCOTitle": "Stonemason"
+  },
+  {
+    "ANZSCOCode": 331212,
+    "ANZSCOTitle": "Carpenter"
+  },
+  {
+    "ANZSCOCode": 331213,
+    "ANZSCOTitle": "Joiner"
+  },
+  {
+    "ANZSCOCode": 333211,
+    "ANZSCOTitle": "Fibrous Plasterer"
+  },
+  {
+    "ANZSCOCode": 333212,
+    "ANZSCOTitle": "Solid Plasterer"
+  },
+  {
+    "ANZSCOCode": 334111,
+    "ANZSCOTitle": "Plumber (General)"
+  },
+  {
+    "ANZSCOCode": 334113,
+    "ANZSCOTitle": "Drainer"
+  },
+  {
+    "ANZSCOCode": 334114,
+    "ANZSCOTitle": "Gasfitter"
+  },
+  {
+    "ANZSCOCode": 334115,
+    "ANZSCOTitle": "Roof Plumber"
+  },
+  {
+    "ANZSCOCode": 341113,
+    "ANZSCOTitle": "Lift Mechanic"
+  },
+  {
+    "ANZSCOCode": 342311,
+    "ANZSCOTitle": "Business Machine Mechanic"
+  },
+  {
+    "ANZSCOCode": 342312,
+    "ANZSCOTitle": "Communications Operator"
+  },
+  {
+    "ANZSCOCode": 342313,
+    "ANZSCOTitle": "Electronic Equipment Trades Worker"
+  },
+  {
+    "ANZSCOCode": 342314,
+    "ANZSCOTitle": "Electronic Instrument Trades Worker (General)"
+  },
+  {
+    "ANZSCOCode": 342413,
+    "ANZSCOTitle": "Telecommunications Linesworker"
+  },
+  {
+    "ANZSCOCode": 361113,
+    "ANZSCOTitle": "Pet Groomer"
+  },
+  {
+    "ANZSCOCode": 362212,
+    "ANZSCOTitle": "Arborist"
+  },
+  {
+    "ANZSCOCode": 392111,
+    "ANZSCOTitle": "Print Finisher"
+  },
+  {
+    "ANZSCOCode": 392112,
+    "ANZSCOTitle": "Screen Printer"
+  },
+  {
+    "ANZSCOCode": 393212,
+    "ANZSCOTitle": "Clothing Patternmaker"
+  },
+  {
+    "ANZSCOCode": 393213,
+    "ANZSCOTitle": "Dressmaker or Tailor"
+  },
+  {
+    "ANZSCOCode": 394211,
+    "ANZSCOTitle": "Furniture Finisher"
+  },
+  {
+    "ANZSCOCode": 394213,
+    "ANZSCOTitle": "Wood Machinist"
+  },
+  {
+    "ANZSCOCode": 399212,
+    "ANZSCOTitle": "Gas or Petroleum Operator"
+  },
+  {
+    "ANZSCOCode": 399213,
+    "ANZSCOTitle": "Power Generation Plant Operator"
+  },
+  {
+    "ANZSCOCode": 399311,
+    "ANZSCOTitle": "Gallery or Museum Technician"
+  },
+  {
+    "ANZSCOCode": 399312,
+    "ANZSCOTitle": "Library Technician"
+  },
+  {
+    "ANZSCOCode": 399511,
+    "ANZSCOTitle": "Broadcast Transmitter Operator"
+  },
+  {
+    "ANZSCOCode": 399512,
+    "ANZSCOTitle": "Camera Operator (Film, Television or Video)"
+  },
+  {
+    "ANZSCOCode": 399514,
+    "ANZSCOTitle": "Make Up Artist"
+  },
+  {
+    "ANZSCOCode": 399515,
+    "ANZSCOTitle": "Musical Instrument Maker or Repairer"
+  },
+  {
+    "ANZSCOCode": 399516,
+    "ANZSCOTitle": "Sound Technician"
+  },
+  {
+    "ANZSCOCode": 399911,
+    "ANZSCOTitle": "Diver"
+  },
+  {
+    "ANZSCOCode": 399913,
+    "ANZSCOTitle": "Optical Dispenser"
+  },
+  {
+    "ANZSCOCode": 411211,
+    "ANZSCOTitle": "Dental Hygienist"
+  },
+  {
+    "ANZSCOCode": 411213,
+    "ANZSCOTitle": "Dental Technician"
+  },
+  {
+    "ANZSCOCode": 411214,
+    "ANZSCOTitle": "Dental Therapist"
+  },
+  {
+    "ANZSCOCode": 411411,
+    "ANZSCOTitle": "Enrolled Nurse"
+  },
+  {
+    "ANZSCOCode": 411412,
+    "ANZSCOTitle": "Mothercraft Nurse"
+  },
+  {
+    "ANZSCOCode": 411711,
+    "ANZSCOTitle": "Community Worker"
+  },
+  {
+    "ANZSCOCode": 411712,
+    "ANZSCOTitle": "Disabilities Services Officer"
+  },
+  {
+    "ANZSCOCode": 411713,
+    "ANZSCOTitle": "Family Support Worker"
+  },
+  {
+    "ANZSCOCode": 411714,
+    "ANZSCOTitle": "Parole or Probation Officer"
+  },
+  {
+    "ANZSCOCode": 411715,
+    "ANZSCOTitle": "Residential Care Officer"
+  },
+  {
+    "ANZSCOCode": 411716,
+    "ANZSCOTitle": "Youth Worker"
+  },
+  {
+    "ANZSCOCode": 421111,
+    "ANZSCOTitle": "Child Care Worker"
+  },
+  {
+    "ANZSCOCode": 421113,
+    "ANZSCOTitle": "Nanny"
+  },
+  {
+    "ANZSCOCode": 422112,
+    "ANZSCOTitle": "Integration Aide"
+  },
+  {
+    "ANZSCOCode": 423311,
+    "ANZSCOTitle": "Hospital Orderly"
+  },
+  {
+    "ANZSCOCode": 423312,
+    "ANZSCOTitle": "Nursing Support Worker"
+  },
+  {
+    "ANZSCOCode": 423313,
+    "ANZSCOTitle": "Personal Care Assistant"
+  },
+  {
+    "ANZSCOCode": 423314,
+    "ANZSCOTitle": "Therapy Aide"
+  },
+  {
+    "ANZSCOCode": 431111,
+    "ANZSCOTitle": "Bar Attendant"
+  },
+  {
+    "ANZSCOCode": 431112,
+    "ANZSCOTitle": "Barista"
+  },
+  {
+    "ANZSCOCode": 431912,
+    "ANZSCOTitle": "Doorperson or Luggage Porter"
+  },
+  {
+    "ANZSCOCode": 441211,
+    "ANZSCOTitle": "Emergency Service Worker"
+  },
+  {
+    "ANZSCOCode": 441212,
+    "ANZSCOTitle": "Fire Fighter"
+  },
+  {
+    "ANZSCOCode": 441311,
+    "ANZSCOTitle": "Detective"
+  },
+  {
+    "ANZSCOCode": 441312,
+    "ANZSCOTitle": "Police Officer"
+  },
+  {
+    "ANZSCOCode": 442214,
+    "ANZSCOTitle": "Private Investigator"
+  },
+  {
+    "ANZSCOCode": 442215,
+    "ANZSCOTitle": "Retail Loss Prevention Officer"
+  },
+  {
+    "ANZSCOCode": 442216,
+    "ANZSCOTitle": "Security Consultant"
+  },
+  {
+    "ANZSCOCode": 442217,
+    "ANZSCOTitle": "Security Officer"
+  },
+  {
+    "ANZSCOCode": 451612,
+    "ANZSCOTitle": "Travel Consultant"
+  },
+  {
+    "ANZSCOCode": 452322,
+    "ANZSCOTitle": "Sports Umpire"
+  },
+  {
+    "ANZSCOCode": 452414,
+    "ANZSCOTitle": "Lifeguard"
+  },
+  {
+    "ANZSCOCode": 511111,
+    "ANZSCOTitle": "Contract Administrator"
+  },
+  {
+    "ANZSCOCode": 511112,
+    "ANZSCOTitle": "Program or Project Administrator"
+  },
+  {
+    "ANZSCOCode": 512211,
+    "ANZSCOTitle": "Health Practice Manager"
+  },
+  {
+    "ANZSCOCode": 521211,
+    "ANZSCOTitle": "Secretary (General)"
+  },
+  {
+    "ANZSCOCode": 521212,
+    "ANZSCOTitle": "Legal Secretary"
+  },
+  {
+    "ANZSCOCode": 532111,
+    "ANZSCOTitle": "Data Entry Operator"
+  },
+  {
+    "ANZSCOCode": 532113,
+    "ANZSCOTitle": "Word Processing Operator"
+  },
+  {
+    "ANZSCOCode": 541111,
+    "ANZSCOTitle": "Call or Contact Centre Team Leader"
+  },
+  {
+    "ANZSCOCode": 541112,
+    "ANZSCOTitle": "Call or Contact Centre Operator"
+  },
+  {
+    "ANZSCOCode": 542111,
+    "ANZSCOTitle": "Receptionist (General)"
+  },
+  {
+    "ANZSCOCode": 542112,
+    "ANZSCOTitle": "Admissions Clerk"
+  },
+  {
+    "ANZSCOCode": 542113,
+    "ANZSCOTitle": "Hotel or Motel Receptionist"
+  },
+  {
+    "ANZSCOCode": 542114,
+    "ANZSCOTitle": "Medical Receptionist"
+  },
+  {
+    "ANZSCOCode": 551111,
+    "ANZSCOTitle": "Accounts Clerk"
+  },
+  {
+    "ANZSCOCode": 551112,
+    "ANZSCOTitle": "Cost Clerk"
+  },
+  {
+    "ANZSCOCode": 552312,
+    "ANZSCOTitle": "Insurance Consultant"
+  },
+  {
+    "ANZSCOCode": 552314,
+    "ANZSCOTitle": "Statistical Clerk"
+  },
+  {
+    "ANZSCOCode": 561211,
+    "ANZSCOTitle": "Courier"
+  },
+  {
+    "ANZSCOCode": 561212,
+    "ANZSCOTitle": "Postal Delivery Officer"
+  },
+  {
+    "ANZSCOCode": 561411,
+    "ANZSCOTitle": "Mail Clerk"
+  },
+  {
+    "ANZSCOCode": 561912,
+    "ANZSCOTitle": "Meter Reader"
+  },
+  {
+    "ANZSCOCode": 561913,
+    "ANZSCOTitle": "Parking Inspector"
+  },
+  {
+    "ANZSCOCode": 591112,
+    "ANZSCOTitle": "Production Clerk"
+  },
+  {
+    "ANZSCOCode": 591113,
+    "ANZSCOTitle": "Purchasing Officer"
+  },
+  {
+    "ANZSCOCode": 591115,
+    "ANZSCOTitle": "Stock Clerk"
+  },
+  {
+    "ANZSCOCode": 591116,
+    "ANZSCOTitle": "Warehouse Administrator"
+  },
+  {
+    "ANZSCOCode": 591117,
+    "ANZSCOTitle": "Order Clerk"
+  },
+  {
+    "ANZSCOCode": 599511,
+    "ANZSCOTitle": "Customs Officer"
+  },
+  {
+    "ANZSCOCode": 599512,
+    "ANZSCOTitle": "Immigration Officer"
+  },
+  {
+    "ANZSCOCode": 599516,
+    "ANZSCOTitle": "Taxation Inspector"
+  },
+  {
+    "ANZSCOCode": 599518,
+    "ANZSCOTitle": "Transport Operations Inspector"
+  },
+  {
+    "ANZSCOCode": 599913,
+    "ANZSCOTitle": "Proof Reader"
+  },
+  {
+    "ANZSCOCode": 599914,
+    "ANZSCOTitle": "Radio Despatcher"
+  },
+  {
+    "ANZSCOCode": 599915,
+    "ANZSCOTitle": "Clinical Coder"
+  },
+  {
+    "ANZSCOCode": 599916,
+    "ANZSCOTitle": "Facilities Administrator"
+  },
+  {
+    "ANZSCOCode": 612112,
+    "ANZSCOTitle": "Property Manager"
+  },
+  {
+    "ANZSCOCode": 612114,
+    "ANZSCOTitle": "Real Estate Agent"
+  },
+  {
+    "ANZSCOCode": 612115,
+    "ANZSCOTitle": "Real Estate Representative"
+  },
+  {
+    "ANZSCOCode": 621311,
+    "ANZSCOTitle": "Motor Vehicle or Caravan Salesperson"
+  },
+  {
+    "ANZSCOCode": 621312,
+    "ANZSCOTitle": "Motor Vehicle Parts Interpreter"
+  },
+  {
+    "ANZSCOCode": 621911,
+    "ANZSCOTitle": "Materials Recycler"
+  },
+  {
+    "ANZSCOCode": 639111,
+    "ANZSCOTitle": "Model"
+  },
+  {
+    "ANZSCOCode": 639112,
+    "ANZSCOTitle": "Sales Demonstrator"
+  },
+  {
+    "ANZSCOCode": 639211,
+    "ANZSCOTitle": "Retail Buyer"
+  },
+  {
+    "ANZSCOCode": 711114,
+    "ANZSCOTitle": "Stone Processing Machine Operator"
+  },
+  {
+    "ANZSCOCode": 711912,
+    "ANZSCOTitle": "Motion Picture Projectionist"
+  },
+  {
+    "ANZSCOCode": 711914,
+    "ANZSCOTitle": "Sterilisation Technician"
+  },
+  {
+    "ANZSCOCode": 712211,
+    "ANZSCOTitle": "Driller"
+  },
+  {
+    "ANZSCOCode": 712212,
+    "ANZSCOTitle": "Miner"
+  },
+  {
+    "ANZSCOCode": 712213,
+    "ANZSCOTitle": "Shot Firer"
+  },
+  {
+    "ANZSCOCode": 712911,
+    "ANZSCOTitle": "Boiler or Engine Operator"
+  },
+  {
+    "ANZSCOCode": 712912,
+    "ANZSCOTitle": "Bulk Materials Handling Plant Operator"
+  },
+  {
+    "ANZSCOCode": 712915,
+    "ANZSCOTitle": "Concrete Pump Operator"
+  },
+  {
+    "ANZSCOCode": 712917,
+    "ANZSCOTitle": "Railway Signal Operator"
+  },
+  {
+    "ANZSCOCode": 712921,
+    "ANZSCOTitle": "Waste Water or Water Plant Operator"
+  },
+  {
+    "ANZSCOCode": 712922,
+    "ANZSCOTitle": "Weighbridge Operator"
+  },
+  {
+    "ANZSCOCode": 721111,
+    "ANZSCOTitle": "Agricultural and Horticultural Mobile Plant Operator"
+  },
+  {
+    "ANZSCOCode": 721211,
+    "ANZSCOTitle": "Earthmoving Plant Operator (General)"
+  },
+  {
+    "ANZSCOCode": 721212,
+    "ANZSCOTitle": "Backhoe Operator"
+  },
+  {
+    "ANZSCOCode": 721213,
+    "ANZSCOTitle": "Bulldozer Operator"
+  },
+  {
+    "ANZSCOCode": 721214,
+    "ANZSCOTitle": "Excavator Operator"
+  },
+  {
+    "ANZSCOCode": 721215,
+    "ANZSCOTitle": "Grader Operator"
+  },
+  {
+    "ANZSCOCode": 721216,
+    "ANZSCOTitle": "Loader Operator"
+  },
+  {
+    "ANZSCOCode": 721913,
+    "ANZSCOTitle": "Paving Plant Operator"
+  },
+  {
+    "ANZSCOCode": 721915,
+    "ANZSCOTitle": "Road Roller Operator"
+  },
+  {
+    "ANZSCOCode": 731311,
+    "ANZSCOTitle": "Train Driver"
+  },
+  {
+    "ANZSCOCode": 821111,
+    "ANZSCOTitle": "Builder's Labourer"
+  },
+  {
+    "ANZSCOCode": 821411,
+    "ANZSCOTitle": "Building Insulation Installer"
+  },
+  {
+    "ANZSCOCode": 821412,
+    "ANZSCOTitle": "Home Improvement Installer"
+  },
+  {
+    "ANZSCOCode": 821711,
+    "ANZSCOTitle": "Construction Rigger"
+  },
+  {
+    "ANZSCOCode": 821712,
+    "ANZSCOTitle": "Scaffolder"
+  },
+  {
+    "ANZSCOCode": 821713,
+    "ANZSCOTitle": "Steel Fixer"
+  },
+  {
+    "ANZSCOCode": 821714,
+    "ANZSCOTitle": "Structural Steel Erector"
+  },
+  {
+    "ANZSCOCode": 821911,
+    "ANZSCOTitle": "Crane Chaser"
+  },
+  {
+    "ANZSCOCode": 821912,
+    "ANZSCOTitle": "Driller's Assistant"
+  },
+  {
+    "ANZSCOCode": 821913,
+    "ANZSCOTitle": "Lagger"
+  },
+  {
+    "ANZSCOCode": 821914,
+    "ANZSCOTitle": "Mining Support Worker"
+  },
+  {
+    "ANZSCOCode": 831211,
+    "ANZSCOTitle": "Meat Boner and Slicer"
+  },
+  {
+    "ANZSCOCode": 831212,
+    "ANZSCOTitle": "Slaughterer"
+  },
+  {
+    "ANZSCOCode": 839311,
+    "ANZSCOTitle": "Product Examiner"
+  },
+  {
+    "ANZSCOCode": 839312,
+    "ANZSCOTitle": "Product Grader"
+  },
+  {
+    "ANZSCOCode": 839313,
+    "ANZSCOTitle": "Product Tester"
+  },
+  {
+    "ANZSCOCode": 839912,
+    "ANZSCOTitle": "Chemical Plant Worker"
+  },
+  {
+    "ANZSCOCode": 839918,
+    "ANZSCOTitle": "Recycling Worker"
+  },
+  {
+    "ANZSCOCode": 841311,
+    "ANZSCOTitle": "Forestry Worker"
+  },
+  {
+    "ANZSCOCode": 841312,
+    "ANZSCOTitle": "Logging Assistant"
+  },
+  {
+    "ANZSCOCode": 841313,
+    "ANZSCOTitle": "Tree Faller"
+  },
+  {
+    "ANZSCOCode": 841911,
+    "ANZSCOTitle": "Hunter-Trapper"
+  },
+  {
+    "ANZSCOCode": 841913,
+    "ANZSCOTitle": "Pest Controller"
+  },
+  {
+    "ANZSCOCode": 899211,
+    "ANZSCOTitle": "Deck Hand"
+  },
+  {
+    "ANZSCOCode": 899212,
+    "ANZSCOTitle": "Fishing Hand"
+  },
+  {
+    "ANZSCOCode": 899412,
+    "ANZSCOTitle": "Autoglazier"
+  },
+  {
+    "ANZSCOCode": 899415,
+    "ANZSCOTitle": "Tyre Fitter"
+  },
+  {
+    "ANZSCOCode": 899911,
+    "ANZSCOTitle": "Bicycle Mechanic"
+  },
+  {
+    "ANZSCOCode": 899912,
+    "ANZSCOTitle": "Car Park Attendant"
+  },
+  {
+    "ANZSCOCode": 899913,
+    "ANZSCOTitle": "Crossing Supervisor"
+  },
+  {
+    "ANZSCOCode": 899914,
+    "ANZSCOTitle": "Electrical or Telecommunications Trades Assistant"
+  },
+  {
+    "ANZSCOCode": 899915,
+    "ANZSCOTitle": "Leaflet or Newspaper Deliverer"
+  },
+  {
+    "ANZSCOCode": 899918,
+    "ANZSCOTitle": "Sign Erector"
+  },
+  {
+    "ANZSCOCode": 899921,
+    "ANZSCOTitle": "Ticket Collector or Usher"
+  },
+  {
+    "ANZSCOCode": 899923,
+    "ANZSCOTitle": "Road Traffic Controller"
+  }
+]
