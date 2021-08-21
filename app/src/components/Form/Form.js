@@ -66,6 +66,8 @@ const initialState = {
   skillSpecialistCluster: [],
   skillSpecialistTask: [],
 
+  income2019: [],
+
   occupation: 0,
   occupationResults: [],
 
@@ -75,6 +77,32 @@ const initialState = {
 
 function Form(props) {
   const [state, setstate] = useState(initialState);
+
+  const getIncome = () => {
+    fetch("/data/income2019.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(function (resp) {
+        return resp.json();
+      })
+      .then(function (rawdata) {
+        const myJson = rawdata;
+
+        setstate((previousState) => {
+          return {
+            ...previousState,
+            income2019: myJson,
+          };
+        });
+      });
+  };
+
+  useEffect(() => {
+    getIncome();
+  }, []);
 
   const getSkills = () => {
     fetch("/data/skills.json", {
@@ -250,6 +278,10 @@ function Form(props) {
       s.SpecialistCluster = "";
       s.SpecialistTask = "";
     });
+    let newcompetency = state.competency;
+    newcompetency.forEach((s) => {
+      s.Score = 0;
+    });
 
     setstate((previousState) => {
       return {
@@ -258,6 +290,7 @@ function Form(props) {
         occupationResults: [],
         occupation: 0,
         skill: newSkill,
+        competency: newcompetency,
       };
     });
   };
@@ -320,9 +353,39 @@ function Form(props) {
       }
 
       if (evaluated.Score > 0) {
+        evaluated.Income = 0;
+        let tmpIncome = state.income2019.filter(
+          (o) => parseInt(o.ANZSCOCode) === evaluated.ANZSCOCode
+        )[0];
+        if (tmpIncome === undefined) {
+          tmpIncome = state.income2019.filter(
+            (o) =>
+              parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 10)
+          )[0];
+        } else {
+          evaluated.Income = tmpIncome.AvgIncome2019;
+        }
+        if (tmpIncome === undefined) {
+          tmpIncome = state.income2019.filter(
+            (o) =>
+              parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 100)
+          )[0];
+        } else {
+          evaluated.Income = tmpIncome.AvgIncome2019;
+        }
+        if (tmpIncome === undefined) {
+          tmpIncome = state.income2019.filter(
+            (o) =>
+              parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 1000)
+          )[0];
+        } else {
+          evaluated.Income = tmpIncome.AvgIncome2019;
+        }
+
         evaluated.ANZSCOTitle = state.occupations.filter(
           (o) => o.ANZSCOCode === evaluated.ANZSCOCode
         )[0].ANZSCOTitle;
+
         let index = results
           .map(function (e) {
             return e.ANZSCOCode;
@@ -386,6 +449,35 @@ function Form(props) {
       else if (parseInt(curCompetency.Score) < parseInt(req.Score) + 1)
         evaluated.Score = 100;
       else evaluated.Score = 10; // occupations you're overqualified for. You'll get bored.
+
+      evaluated.Income = 0;
+      let tmpIncome = state.income2019.filter(
+        (o) => parseInt(o.ANZSCOCode) === evaluated.ANZSCOCode
+      )[0];
+      if (tmpIncome === undefined) {
+        tmpIncome = state.income2019.filter(
+          (o) =>
+            parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 10)
+        )[0];
+      } else {
+        evaluated.Income = tmpIncome.AvgIncome2019;
+      }
+      if (tmpIncome === undefined) {
+        tmpIncome = state.income2019.filter(
+          (o) =>
+            parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 100)
+        )[0];
+      } else {
+        evaluated.Income = tmpIncome.AvgIncome2019;
+      }
+      if (tmpIncome === undefined) {
+        tmpIncome = state.income2019.filter(
+          (o) =>
+            parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 1000)
+        )[0];
+      } else {
+        evaluated.Income = tmpIncome.AvgIncome2019;
+      }
 
       evaluated.ANZSCOTitle = state.occupations.filter(
         (o) => o.ANZSCOCode === evaluated.ANZSCOCode
@@ -463,6 +555,35 @@ function Form(props) {
       }
 
       if (evaluated.Score > 0) {
+        evaluated.Income = 0;
+        let tmpIncome = state.income2019.filter(
+          (o) => parseInt(o.ANZSCOCode) === evaluated.ANZSCOCode
+        )[0];
+        if (tmpIncome === undefined) {
+          tmpIncome = state.income2019.filter(
+            (o) =>
+              parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 10)
+          )[0];
+        } else {
+          evaluated.Income = tmpIncome.AvgIncome2019;
+        }
+        if (tmpIncome === undefined) {
+          tmpIncome = state.income2019.filter(
+            (o) =>
+              parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 100)
+          )[0];
+        } else {
+          evaluated.Income = tmpIncome.AvgIncome2019;
+        }
+        if (tmpIncome === undefined) {
+          tmpIncome = state.income2019.filter(
+            (o) =>
+              parseInt(o.ANZSCOCode) === Math.floor(evaluated.ANZSCOCode / 1000)
+          )[0];
+        } else {
+          evaluated.Income = tmpIncome.AvgIncome2019;
+        }
+
         evaluated.ANZSCOTitle = state.occupations.filter(
           (o) => o.ANZSCOCode === evaluated.ANZSCOCode
         )[0].ANZSCOTitle;
@@ -544,7 +665,11 @@ function Form(props) {
                       onChange={(e) => onChangeSkillValue(e, index)}
                     >
                       {state.skillSpecialistCluster
-                        .filter((e) => e.ClusterFamily === skill.ClusterFamily)
+                        .filter(
+                          (e) =>
+                            e.ClusterFamily === skill.ClusterFamily ||
+                            e.ClusterFamily === ""
+                        )
                         .map((data) => (
                           <option
                             key={data.SpecialistCluster}
@@ -565,7 +690,9 @@ function Form(props) {
                     >
                       {state.skillSpecialistTask
                         .filter(
-                          (e) => e.SpecialistCluster === skill.SpecialistCluster
+                          (e) =>
+                            e.SpecialistCluster === skill.SpecialistCluster ||
+                            e.SpecialistCluster === ""
                         )
                         .map((data) => (
                           <option
@@ -678,6 +805,7 @@ function Form(props) {
               <tr>
                 <th>Occupation</th>
                 <th>Score</th>
+                <th>Average Income for Industry</th>
               </tr>
             </thead>
             <tbody>
@@ -685,6 +813,7 @@ function Form(props) {
                 <tr key={index}>
                   <td>{data.ANZSCOTitle}</td>
                   <td>{data.Score}</td>
+                  <td>{data.Income}</td>
                 </tr>
               ))}
             </tbody>

@@ -1,0 +1,2252 @@
+[
+  {
+    "ANZSCOCode": 0,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 41988
+  },
+  {
+    "ANZSCOCode": 1100,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 92249
+  },
+  {
+    "ANZSCOCode": 1111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 165637
+  },
+  {
+    "ANZSCOCode": 1112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 116745
+  },
+  {
+    "ANZSCOCode": 1113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 95214
+  },
+  {
+    "ANZSCOCode": 1210,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 24224
+  },
+  {
+    "ANZSCOCode": 1211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52880
+  },
+  {
+    "ANZSCOCode": 1212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60066
+  },
+  {
+    "ANZSCOCode": 1213,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55235
+  },
+  {
+    "ANZSCOCode": 1214,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 69212
+  },
+  {
+    "ANZSCOCode": 1311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 108623
+  },
+  {
+    "ANZSCOCode": 1321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 120215
+  },
+  {
+    "ANZSCOCode": 1322,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 120763
+  },
+  {
+    "ANZSCOCode": 1323,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 124415
+  },
+  {
+    "ANZSCOCode": 1324,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 118412
+  },
+  {
+    "ANZSCOCode": 1325,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 105774
+  },
+  {
+    "ANZSCOCode": 1331,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 109866
+  },
+  {
+    "ANZSCOCode": 1332,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 160103
+  },
+  {
+    "ANZSCOCode": 1333,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 114258
+  },
+  {
+    "ANZSCOCode": 1334,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 77575
+  },
+  {
+    "ANZSCOCode": 1335,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 145617
+  },
+  {
+    "ANZSCOCode": 1336,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 104978
+  },
+  {
+    "ANZSCOCode": 1341,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68376
+  },
+  {
+    "ANZSCOCode": 1342,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70257
+  },
+  {
+    "ANZSCOCode": 1343,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 124357
+  },
+  {
+    "ANZSCOCode": 1344,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 67164
+  },
+  {
+    "ANZSCOCode": 1351,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 134203
+  },
+  {
+    "ANZSCOCode": 1391,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 99333
+  },
+  {
+    "ANZSCOCode": 1392,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 101851
+  },
+  {
+    "ANZSCOCode": 1399,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 82053
+  },
+  {
+    "ANZSCOCode": 1411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48132
+  },
+  {
+    "ANZSCOCode": 1412,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 53631
+  },
+  {
+    "ANZSCOCode": 1413,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70020
+  },
+  {
+    "ANZSCOCode": 1414,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76018
+  },
+  {
+    "ANZSCOCode": 1419,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 61928
+  },
+  {
+    "ANZSCOCode": 1421,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56704
+  },
+  {
+    "ANZSCOCode": 1491,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 58461
+  },
+  {
+    "ANZSCOCode": 1492,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 59078
+  },
+  {
+    "ANZSCOCode": 1493,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56896
+  },
+  {
+    "ANZSCOCode": 1494,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84225
+  },
+  {
+    "ANZSCOCode": 1499,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 113030
+  },
+  {
+    "ANZSCOCode": 2111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 43092
+  },
+  {
+    "ANZSCOCode": 2112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55944
+  },
+  {
+    "ANZSCOCode": 2113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46159
+  },
+  {
+    "ANZSCOCode": 2114,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46165
+  },
+  {
+    "ANZSCOCode": 2120,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 40649
+  },
+  {
+    "ANZSCOCode": 2121,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 90771
+  },
+  {
+    "ANZSCOCode": 2122,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 72556
+  },
+  {
+    "ANZSCOCode": 2123,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 78178
+  },
+  {
+    "ANZSCOCode": 2124,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 79592
+  },
+  {
+    "ANZSCOCode": 2211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 98329
+  },
+  {
+    "ANZSCOCode": 2212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 106299
+  },
+  {
+    "ANZSCOCode": 2221,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 105898
+  },
+  {
+    "ANZSCOCode": 2222,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 276981
+  },
+  {
+    "ANZSCOCode": 2223,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 148261
+  },
+  {
+    "ANZSCOCode": 2231,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76667
+  },
+  {
+    "ANZSCOCode": 2232,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 77574
+  },
+  {
+    "ANZSCOCode": 2233,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 78837
+  },
+  {
+    "ANZSCOCode": 2241,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 139967
+  },
+  {
+    "ANZSCOCode": 2242,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64569
+  },
+  {
+    "ANZSCOCode": 2243,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 140382
+  },
+  {
+    "ANZSCOCode": 2244,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 93495
+  },
+  {
+    "ANZSCOCode": 2245,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 105183
+  },
+  {
+    "ANZSCOCode": 2246,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68722
+  },
+  {
+    "ANZSCOCode": 2247,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 101243
+  },
+  {
+    "ANZSCOCode": 2249,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 43184
+  },
+  {
+    "ANZSCOCode": 2251,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76645
+  },
+  {
+    "ANZSCOCode": 2252,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 126778
+  },
+  {
+    "ANZSCOCode": 2253,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84467
+  },
+  {
+    "ANZSCOCode": 2254,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 88097
+  },
+  {
+    "ANZSCOCode": 2300,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 88638
+  },
+  {
+    "ANZSCOCode": 2311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 144548
+  },
+  {
+    "ANZSCOCode": 2312,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 116653
+  },
+  {
+    "ANZSCOCode": 2320,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52782
+  },
+  {
+    "ANZSCOCode": 2321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 90889
+  },
+  {
+    "ANZSCOCode": 2322,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 98930
+  },
+  {
+    "ANZSCOCode": 2323,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 73370
+  },
+  {
+    "ANZSCOCode": 2324,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64599
+  },
+  {
+    "ANZSCOCode": 2325,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64629
+  },
+  {
+    "ANZSCOCode": 2326,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 97933
+  },
+  {
+    "ANZSCOCode": 2330,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 119079
+  },
+  {
+    "ANZSCOCode": 2331,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 123429
+  },
+  {
+    "ANZSCOCode": 2332,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 112868
+  },
+  {
+    "ANZSCOCode": 2333,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 118629
+  },
+  {
+    "ANZSCOCode": 2334,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 105579
+  },
+  {
+    "ANZSCOCode": 2335,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 106517
+  },
+  {
+    "ANZSCOCode": 2336,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 184903
+  },
+  {
+    "ANZSCOCode": 2339,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 119516
+  },
+  {
+    "ANZSCOCode": 2340,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 106280
+  },
+  {
+    "ANZSCOCode": 2341,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84335
+  },
+  {
+    "ANZSCOCode": 2342,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 83691
+  },
+  {
+    "ANZSCOCode": 2343,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 81648
+  },
+  {
+    "ANZSCOCode": 2344,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 140097
+  },
+  {
+    "ANZSCOCode": 2345,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 80691
+  },
+  {
+    "ANZSCOCode": 2346,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 81841
+  },
+  {
+    "ANZSCOCode": 2347,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 89510
+  },
+  {
+    "ANZSCOCode": 2349,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 93178
+  },
+  {
+    "ANZSCOCode": 2400,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60740
+  },
+  {
+    "ANZSCOCode": 2410,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68292
+  },
+  {
+    "ANZSCOCode": 2411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 54911
+  },
+  {
+    "ANZSCOCode": 2412,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68980
+  },
+  {
+    "ANZSCOCode": 2413,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 71182
+  },
+  {
+    "ANZSCOCode": 2414,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 78312
+  },
+  {
+    "ANZSCOCode": 2415,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 61061
+  },
+  {
+    "ANZSCOCode": 2421,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 85526
+  },
+  {
+    "ANZSCOCode": 2422,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 65016
+  },
+  {
+    "ANZSCOCode": 2491,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66802
+  },
+  {
+    "ANZSCOCode": 2492,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 39491
+  },
+  {
+    "ANZSCOCode": 2493,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50560
+  },
+  {
+    "ANZSCOCode": 2500,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 157939
+  },
+  {
+    "ANZSCOCode": 2511,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62570
+  },
+  {
+    "ANZSCOCode": 2512,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 88644
+  },
+  {
+    "ANZSCOCode": 2513,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 98297
+  },
+  {
+    "ANZSCOCode": 2514,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 89102
+  },
+  {
+    "ANZSCOCode": 2515,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76064
+  },
+  {
+    "ANZSCOCode": 2519,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 65377
+  },
+  {
+    "ANZSCOCode": 2521,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 71517
+  },
+  {
+    "ANZSCOCode": 2522,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 42703
+  },
+  {
+    "ANZSCOCode": 2523,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 141248
+  },
+  {
+    "ANZSCOCode": 2524,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64278
+  },
+  {
+    "ANZSCOCode": 2525,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70653
+  },
+  {
+    "ANZSCOCode": 2526,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 69193
+  },
+  {
+    "ANZSCOCode": 2527,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 67153
+  },
+  {
+    "ANZSCOCode": 2530,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 137479
+  },
+  {
+    "ANZSCOCode": 2531,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 143905
+  },
+  {
+    "ANZSCOCode": 2532,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 386517
+  },
+  {
+    "ANZSCOCode": 2533,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 304911
+  },
+  {
+    "ANZSCOCode": 2534,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 235715
+  },
+  {
+    "ANZSCOCode": 2535,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 394968
+  },
+  {
+    "ANZSCOCode": 2539,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 223050
+  },
+  {
+    "ANZSCOCode": 2540,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60849
+  },
+  {
+    "ANZSCOCode": 2541,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68275
+  },
+  {
+    "ANZSCOCode": 2542,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 74315
+  },
+  {
+    "ANZSCOCode": 2543,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84257
+  },
+  {
+    "ANZSCOCode": 2544,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 65830
+  },
+  {
+    "ANZSCOCode": 2600,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 215892
+  },
+  {
+    "ANZSCOCode": 2610,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 77528
+  },
+  {
+    "ANZSCOCode": 2611,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 108091
+  },
+  {
+    "ANZSCOCode": 2612,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84912
+  },
+  {
+    "ANZSCOCode": 2613,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 103515
+  },
+  {
+    "ANZSCOCode": 2621,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 97157
+  },
+  {
+    "ANZSCOCode": 2631,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 105559
+  },
+  {
+    "ANZSCOCode": 2632,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 83371
+  },
+  {
+    "ANZSCOCode": 2633,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 107229
+  },
+  {
+    "ANZSCOCode": 2711,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 135824
+  },
+  {
+    "ANZSCOCode": 2712,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 189042
+  },
+  {
+    "ANZSCOCode": 2713,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 130371
+  },
+  {
+    "ANZSCOCode": 2721,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 57338
+  },
+  {
+    "ANZSCOCode": 2722,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33691
+  },
+  {
+    "ANZSCOCode": 2723,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 77948
+  },
+  {
+    "ANZSCOCode": 2724,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49034
+  },
+  {
+    "ANZSCOCode": 2725,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62553
+  },
+  {
+    "ANZSCOCode": 2726,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55328
+  },
+  {
+    "ANZSCOCode": 3111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60814
+  },
+  {
+    "ANZSCOCode": 3112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51556
+  },
+  {
+    "ANZSCOCode": 3113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 72312
+  },
+  {
+    "ANZSCOCode": 3114,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 57554
+  },
+  {
+    "ANZSCOCode": 3120,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66604
+  },
+  {
+    "ANZSCOCode": 3121,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 85124
+  },
+  {
+    "ANZSCOCode": 3122,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 79752
+  },
+  {
+    "ANZSCOCode": 3123,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 94803
+  },
+  {
+    "ANZSCOCode": 3124,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 83050
+  },
+  {
+    "ANZSCOCode": 3125,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 89012
+  },
+  {
+    "ANZSCOCode": 3126,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 100270
+  },
+  {
+    "ANZSCOCode": 3129,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 119075
+  },
+  {
+    "ANZSCOCode": 3131,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62420
+  },
+  {
+    "ANZSCOCode": 3132,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 92941
+  },
+  {
+    "ANZSCOCode": 3211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 83459
+  },
+  {
+    "ANZSCOCode": 3212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 73806
+  },
+  {
+    "ANZSCOCode": 3221,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55559
+  },
+  {
+    "ANZSCOCode": 3222,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 67965
+  },
+  {
+    "ANZSCOCode": 3223,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 75325
+  },
+  {
+    "ANZSCOCode": 3231,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 102104
+  },
+  {
+    "ANZSCOCode": 3232,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 94384
+  },
+  {
+    "ANZSCOCode": 3233,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 59890
+  },
+  {
+    "ANZSCOCode": 3234,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 72957
+  },
+  {
+    "ANZSCOCode": 3241,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 65048
+  },
+  {
+    "ANZSCOCode": 3242,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64699
+  },
+  {
+    "ANZSCOCode": 3243,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60570
+  },
+  {
+    "ANZSCOCode": 3311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 57437
+  },
+  {
+    "ANZSCOCode": 3312,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66765
+  },
+  {
+    "ANZSCOCode": 3321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 54676
+  },
+  {
+    "ANZSCOCode": 3322,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49687
+  },
+  {
+    "ANZSCOCode": 3331,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 61987
+  },
+  {
+    "ANZSCOCode": 3332,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 58645
+  },
+  {
+    "ANZSCOCode": 3333,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50074
+  },
+  {
+    "ANZSCOCode": 3334,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50102
+  },
+  {
+    "ANZSCOCode": 3341,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 73769
+  },
+  {
+    "ANZSCOCode": 3411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 94928
+  },
+  {
+    "ANZSCOCode": 3421,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 79862
+  },
+  {
+    "ANZSCOCode": 3422,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 110163
+  },
+  {
+    "ANZSCOCode": 3423,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 79608
+  },
+  {
+    "ANZSCOCode": 3424,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 75436
+  },
+  {
+    "ANZSCOCode": 3511,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 47224
+  },
+  {
+    "ANZSCOCode": 3512,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51899
+  },
+  {
+    "ANZSCOCode": 3513,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46122
+  },
+  {
+    "ANZSCOCode": 3514,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33393
+  },
+  {
+    "ANZSCOCode": 3611,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 41083
+  },
+  {
+    "ANZSCOCode": 3612,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 45768
+  },
+  {
+    "ANZSCOCode": 3613,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 43913
+  },
+  {
+    "ANZSCOCode": 3621,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 34714
+  },
+  {
+    "ANZSCOCode": 3622,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48678
+  },
+  {
+    "ANZSCOCode": 3623,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48870
+  },
+  {
+    "ANZSCOCode": 3624,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48036
+  },
+  {
+    "ANZSCOCode": 3911,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 35983
+  },
+  {
+    "ANZSCOCode": 3920,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52959
+  },
+  {
+    "ANZSCOCode": 3921,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 54438
+  },
+  {
+    "ANZSCOCode": 3922,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64941
+  },
+  {
+    "ANZSCOCode": 3923,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68702
+  },
+  {
+    "ANZSCOCode": 3931,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 47297
+  },
+  {
+    "ANZSCOCode": 3932,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 44998
+  },
+  {
+    "ANZSCOCode": 3933,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50332
+  },
+  {
+    "ANZSCOCode": 3941,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55915
+  },
+  {
+    "ANZSCOCode": 3942,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50294
+  },
+  {
+    "ANZSCOCode": 3991,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 61426
+  },
+  {
+    "ANZSCOCode": 3992,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 125949
+  },
+  {
+    "ANZSCOCode": 3993,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51007
+  },
+  {
+    "ANZSCOCode": 3994,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56434
+  },
+  {
+    "ANZSCOCode": 3995,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60138
+  },
+  {
+    "ANZSCOCode": 3996,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 57409
+  },
+  {
+    "ANZSCOCode": 3999,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64229
+  },
+  {
+    "ANZSCOCode": 4110,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 21544
+  },
+  {
+    "ANZSCOCode": 4111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 93339
+  },
+  {
+    "ANZSCOCode": 4112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64970
+  },
+  {
+    "ANZSCOCode": 4113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 38655
+  },
+  {
+    "ANZSCOCode": 4114,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49315
+  },
+  {
+    "ANZSCOCode": 4115,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51504
+  },
+  {
+    "ANZSCOCode": 4116,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 26778
+  },
+  {
+    "ANZSCOCode": 4117,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46508
+  },
+  {
+    "ANZSCOCode": 4211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36122
+  },
+  {
+    "ANZSCOCode": 4221,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37566
+  },
+  {
+    "ANZSCOCode": 4230,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 29164
+  },
+  {
+    "ANZSCOCode": 4231,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 38787
+  },
+  {
+    "ANZSCOCode": 4232,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 39311
+  },
+  {
+    "ANZSCOCode": 4233,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 40180
+  },
+  {
+    "ANZSCOCode": 4234,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 47229
+  },
+  {
+    "ANZSCOCode": 4310,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 23400
+  },
+  {
+    "ANZSCOCode": 4311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31534
+  },
+  {
+    "ANZSCOCode": 4312,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 25543
+  },
+  {
+    "ANZSCOCode": 4313,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49707
+  },
+  {
+    "ANZSCOCode": 4314,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51574
+  },
+  {
+    "ANZSCOCode": 4315,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 24687
+  },
+  {
+    "ANZSCOCode": 4319,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 32570
+  },
+  {
+    "ANZSCOCode": 4411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 74056
+  },
+  {
+    "ANZSCOCode": 4412,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 97703
+  },
+  {
+    "ANZSCOCode": 4413,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 97277
+  },
+  {
+    "ANZSCOCode": 4420,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 104427
+  },
+  {
+    "ANZSCOCode": 4421,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 83509
+  },
+  {
+    "ANZSCOCode": 4422,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55821
+  },
+  {
+    "ANZSCOCode": 4500,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48432
+  },
+  {
+    "ANZSCOCode": 4511,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 32148
+  },
+  {
+    "ANZSCOCode": 4512,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 53280
+  },
+  {
+    "ANZSCOCode": 4513,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64281
+  },
+  {
+    "ANZSCOCode": 4514,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 38270
+  },
+  {
+    "ANZSCOCode": 4515,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 30397
+  },
+  {
+    "ANZSCOCode": 4516,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 54113
+  },
+  {
+    "ANZSCOCode": 4517,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60891
+  },
+  {
+    "ANZSCOCode": 4518,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 29648
+  },
+  {
+    "ANZSCOCode": 4521,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 39124
+  },
+  {
+    "ANZSCOCode": 4522,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37060
+  },
+  {
+    "ANZSCOCode": 4523,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36683
+  },
+  {
+    "ANZSCOCode": 4524,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 63307
+  },
+  {
+    "ANZSCOCode": 5100,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52306
+  },
+  {
+    "ANZSCOCode": 5111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70498
+  },
+  {
+    "ANZSCOCode": 5121,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 60447
+  },
+  {
+    "ANZSCOCode": 5122,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 107748
+  },
+  {
+    "ANZSCOCode": 5211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 65758
+  },
+  {
+    "ANZSCOCode": 5212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 58627
+  },
+  {
+    "ANZSCOCode": 5300,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 54965
+  },
+  {
+    "ANZSCOCode": 5310,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70563
+  },
+  {
+    "ANZSCOCode": 5311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49963
+  },
+  {
+    "ANZSCOCode": 5321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 45841
+  },
+  {
+    "ANZSCOCode": 5411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 47828
+  },
+  {
+    "ANZSCOCode": 5412,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 63819
+  },
+  {
+    "ANZSCOCode": 5421,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 39511
+  },
+  {
+    "ANZSCOCode": 5511,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 58594
+  },
+  {
+    "ANZSCOCode": 5512,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50901
+  },
+  {
+    "ANZSCOCode": 5513,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62770
+  },
+  {
+    "ANZSCOCode": 5521,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 78776
+  },
+  {
+    "ANZSCOCode": 5522,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 74526
+  },
+  {
+    "ANZSCOCode": 5523,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 78124
+  },
+  {
+    "ANZSCOCode": 5610,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 65349
+  },
+  {
+    "ANZSCOCode": 5611,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 43481
+  },
+  {
+    "ANZSCOCode": 5612,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51229
+  },
+  {
+    "ANZSCOCode": 5613,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 40655
+  },
+  {
+    "ANZSCOCode": 5614,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52265
+  },
+  {
+    "ANZSCOCode": 5615,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 30837
+  },
+  {
+    "ANZSCOCode": 5616,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48422
+  },
+  {
+    "ANZSCOCode": 5619,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 42867
+  },
+  {
+    "ANZSCOCode": 5911,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56127
+  },
+  {
+    "ANZSCOCode": 5912,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66863
+  },
+  {
+    "ANZSCOCode": 5991,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 61447
+  },
+  {
+    "ANZSCOCode": 5992,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 58888
+  },
+  {
+    "ANZSCOCode": 5993,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52459
+  },
+  {
+    "ANZSCOCode": 5994,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56910
+  },
+  {
+    "ANZSCOCode": 5995,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84423
+  },
+  {
+    "ANZSCOCode": 5996,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 99889
+  },
+  {
+    "ANZSCOCode": 5997,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 41110
+  },
+  {
+    "ANZSCOCode": 5999,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52609
+  },
+  {
+    "ANZSCOCode": 6111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 85052
+  },
+  {
+    "ANZSCOCode": 6112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76944
+  },
+  {
+    "ANZSCOCode": 6113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 59773
+  },
+  {
+    "ANZSCOCode": 6121,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 74951
+  },
+  {
+    "ANZSCOCode": 6200,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 28965
+  },
+  {
+    "ANZSCOCode": 6211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 32641
+  },
+  {
+    "ANZSCOCode": 6212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 57669
+  },
+  {
+    "ANZSCOCode": 6213,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 79610
+  },
+  {
+    "ANZSCOCode": 6214,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33184
+  },
+  {
+    "ANZSCOCode": 6215,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 53785
+  },
+  {
+    "ANZSCOCode": 6216,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37334
+  },
+  {
+    "ANZSCOCode": 6217,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 34425
+  },
+  {
+    "ANZSCOCode": 6219,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 35176
+  },
+  {
+    "ANZSCOCode": 6311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 25990
+  },
+  {
+    "ANZSCOCode": 6391,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 39546
+  },
+  {
+    "ANZSCOCode": 6392,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 74089
+  },
+  {
+    "ANZSCOCode": 6393,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33391
+  },
+  {
+    "ANZSCOCode": 6394,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50199
+  },
+  {
+    "ANZSCOCode": 6395,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50255
+  },
+  {
+    "ANZSCOCode": 7100,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 52713
+  },
+  {
+    "ANZSCOCode": 7111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 67606
+  },
+  {
+    "ANZSCOCode": 7112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 69776
+  },
+  {
+    "ANZSCOCode": 7113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 64066
+  },
+  {
+    "ANZSCOCode": 7114,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51182
+  },
+  {
+    "ANZSCOCode": 7115,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 59783
+  },
+  {
+    "ANZSCOCode": 7116,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37169
+  },
+  {
+    "ANZSCOCode": 7117,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48905
+  },
+  {
+    "ANZSCOCode": 7119,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 67088
+  },
+  {
+    "ANZSCOCode": 7121,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 100845
+  },
+  {
+    "ANZSCOCode": 7122,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 119960
+  },
+  {
+    "ANZSCOCode": 7123,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76593
+  },
+  {
+    "ANZSCOCode": 7129,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 86427
+  },
+  {
+    "ANZSCOCode": 7210,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66756
+  },
+  {
+    "ANZSCOCode": 7211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46729
+  },
+  {
+    "ANZSCOCode": 7212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 83224
+  },
+  {
+    "ANZSCOCode": 7213,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56205
+  },
+  {
+    "ANZSCOCode": 7219,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70124
+  },
+  {
+    "ANZSCOCode": 7300,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 45360
+  },
+  {
+    "ANZSCOCode": 7311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 34968
+  },
+  {
+    "ANZSCOCode": 7312,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 55662
+  },
+  {
+    "ANZSCOCode": 7313,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 115581
+  },
+  {
+    "ANZSCOCode": 7321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 38139
+  },
+  {
+    "ANZSCOCode": 7331,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 68393
+  },
+  {
+    "ANZSCOCode": 7411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46941
+  },
+  {
+    "ANZSCOCode": 8110,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 28857
+  },
+  {
+    "ANZSCOCode": 8111,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 34388
+  },
+  {
+    "ANZSCOCode": 8112,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33492
+  },
+  {
+    "ANZSCOCode": 8113,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 27399
+  },
+  {
+    "ANZSCOCode": 8114,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 28751
+  },
+  {
+    "ANZSCOCode": 8115,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 35919
+  },
+  {
+    "ANZSCOCode": 8116,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 35440
+  },
+  {
+    "ANZSCOCode": 8200,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 30155
+  },
+  {
+    "ANZSCOCode": 8210,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56948
+  },
+  {
+    "ANZSCOCode": 8211,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 53318
+  },
+  {
+    "ANZSCOCode": 8212,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66462
+  },
+  {
+    "ANZSCOCode": 8213,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 45887
+  },
+  {
+    "ANZSCOCode": 8214,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56439
+  },
+  {
+    "ANZSCOCode": 8215,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66757
+  },
+  {
+    "ANZSCOCode": 8216,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 90127
+  },
+  {
+    "ANZSCOCode": 8217,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 81475
+  },
+  {
+    "ANZSCOCode": 8219,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 86979
+  },
+  {
+    "ANZSCOCode": 8300,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 40752
+  },
+  {
+    "ANZSCOCode": 8310,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46031
+  },
+  {
+    "ANZSCOCode": 8311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51295
+  },
+  {
+    "ANZSCOCode": 8312,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49186
+  },
+  {
+    "ANZSCOCode": 8313,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 44460
+  },
+  {
+    "ANZSCOCode": 8321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33441
+  },
+  {
+    "ANZSCOCode": 8322,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 43640
+  },
+  {
+    "ANZSCOCode": 8391,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 56528
+  },
+  {
+    "ANZSCOCode": 8392,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49587
+  },
+  {
+    "ANZSCOCode": 8393,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 49306
+  },
+  {
+    "ANZSCOCode": 8394,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 50003
+  },
+  {
+    "ANZSCOCode": 8399,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 46271
+  },
+  {
+    "ANZSCOCode": 8410,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 25709
+  },
+  {
+    "ANZSCOCode": 8411,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37684
+  },
+  {
+    "ANZSCOCode": 8412,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 27806
+  },
+  {
+    "ANZSCOCode": 8413,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 53168
+  },
+  {
+    "ANZSCOCode": 8414,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37310
+  },
+  {
+    "ANZSCOCode": 8415,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37520
+  },
+  {
+    "ANZSCOCode": 8416,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 44886
+  },
+  {
+    "ANZSCOCode": 8419,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 41743
+  },
+  {
+    "ANZSCOCode": 8511,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 18904
+  },
+  {
+    "ANZSCOCode": 8512,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 30632
+  },
+  {
+    "ANZSCOCode": 8513,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 25350
+  },
+  {
+    "ANZSCOCode": 8910,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 51350
+  },
+  {
+    "ANZSCOCode": 8911,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 70538
+  },
+  {
+    "ANZSCOCode": 8912,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 29195
+  },
+  {
+    "ANZSCOCode": 8991,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 42823
+  },
+  {
+    "ANZSCOCode": 8992,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76894
+  },
+  {
+    "ANZSCOCode": 8993,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 43073
+  },
+  {
+    "ANZSCOCode": 8994,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 54921
+  },
+  {
+    "ANZSCOCode": 8995,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 48802
+  },
+  {
+    "ANZSCOCode": 8996,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62690
+  },
+  {
+    "ANZSCOCode": 8997,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36650
+  },
+  {
+    "ANZSCOCode": 8999,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 44156
+  },
+  {
+    "ANZSCOCode": 9133,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 111277
+  },
+  {
+    "ANZSCOCode": 9221,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 63159
+  },
+  {
+    "ANZSCOCode": 9222,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 139809
+  },
+  {
+    "ANZSCOCode": 9223,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84512
+  },
+  {
+    "ANZSCOCode": 9224,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 133770
+  },
+  {
+    "ANZSCOCode": 9225,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 80350
+  },
+  {
+    "ANZSCOCode": 9232,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 90075
+  },
+  {
+    "ANZSCOCode": 9233,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 110968
+  },
+  {
+    "ANZSCOCode": 9234,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 76121
+  },
+  {
+    "ANZSCOCode": 9250,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 100520
+  },
+  {
+    "ANZSCOCode": 9251,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 90796
+  },
+  {
+    "ANZSCOCode": 9254,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 84177
+  },
+  {
+    "ANZSCOCode": 9261,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 117865
+  },
+  {
+    "ANZSCOCode": 9311,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 35976
+  },
+  {
+    "ANZSCOCode": 9313,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36846
+  },
+  {
+    "ANZSCOCode": 9321,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36005
+  },
+  {
+    "ANZSCOCode": 9322,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 39505
+  },
+  {
+    "ANZSCOCode": 9323,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 47474
+  },
+  {
+    "ANZSCOCode": 9324,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37668
+  },
+  {
+    "ANZSCOCode": 9331,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 34125
+  },
+  {
+    "ANZSCOCode": 9332,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 30854
+  },
+  {
+    "ANZSCOCode": 9333,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31740
+  },
+  {
+    "ANZSCOCode": 9334,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36560
+  },
+  {
+    "ANZSCOCode": 9341,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 42990
+  },
+  {
+    "ANZSCOCode": 9342,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 41237
+  },
+  {
+    "ANZSCOCode": 9351,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 32360
+  },
+  {
+    "ANZSCOCode": 9361,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31556
+  },
+  {
+    "ANZSCOCode": 9362,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31688
+  },
+  {
+    "ANZSCOCode": 9391,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 26434
+  },
+  {
+    "ANZSCOCode": 9392,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 38485
+  },
+  {
+    "ANZSCOCode": 9393,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31878
+  },
+  {
+    "ANZSCOCode": 9394,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 33896
+  },
+  {
+    "ANZSCOCode": 9399,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 36287
+  },
+  {
+    "ANZSCOCode": 9410,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37227
+  },
+  {
+    "ANZSCOCode": 9420,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 30031
+  },
+  {
+    "ANZSCOCode": 9431,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 19562
+  },
+  {
+    "ANZSCOCode": 9442,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 90992
+  },
+  {
+    "ANZSCOCode": 9451,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 44790
+  },
+  {
+    "ANZSCOCode": 9452,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 27135
+  },
+  {
+    "ANZSCOCode": 9510,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31819
+  },
+  {
+    "ANZSCOCode": 9530,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37662
+  },
+  {
+    "ANZSCOCode": 9550,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 40648
+  },
+  {
+    "ANZSCOCode": 9552,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62262
+  },
+  {
+    "ANZSCOCode": 9599,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 66317
+  },
+  {
+    "ANZSCOCode": 9611,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 61360
+  },
+  {
+    "ANZSCOCode": 9612,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 79333
+  },
+  {
+    "ANZSCOCode": 9621,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 31737
+  },
+  {
+    "ANZSCOCode": 9712,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 63876
+  },
+  {
+    "ANZSCOCode": 9730,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37949
+  },
+  {
+    "ANZSCOCode": 9741,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 28827
+  },
+  {
+    "ANZSCOCode": 9811,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 24475
+  },
+  {
+    "ANZSCOCode": 9831,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 26078
+  },
+  {
+    "ANZSCOCode": 9841,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 24392
+  },
+  {
+    "ANZSCOCode": 9899,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 37003
+  },
+  {
+    "ANZSCOCode": 9990,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 62858
+  },
+  {
+    "ANZSCOCode": 9997,
+    "IncomeYear": "2018-19",
+    "AvgIncome2019": 78663
+  }
+]

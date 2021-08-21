@@ -19,6 +19,7 @@ This entry is 1 part career guidance counsellor, 1 part employment services, and
 
 There's plenty of opportunity for ongoing work - integrating Training Organisations, enabing School and University curriculum alignment, and individual career growth and skill assessment.
 
+Hi, I'm David, the data florist, making beautiful bouquets from your data.
 
 Let's look at the application.
 

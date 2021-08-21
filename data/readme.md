@@ -37,7 +37,7 @@ WITH cte_coreCompetencies AS
 select od.ANZSCOTitle, sum(h.score * cc.score) score
 from nsc.occupationDescriptions od 
   inner join nsc.coreCompetencies cc on od.ANZSCOCode  = cc.ANZSCOCode 
-  inner join cte_coreCompetencies h on h.coreCompetencies = cc.coreCompetencies and h.score < cc.score + 1 --shoot for the moon!
+  inner join cte_coreCompetencies h on h.coreCompetencies = cc.coreCompetencies and h.score = cc.score
 group by od.ANZSCOTitle
 order by score desc, ANZSCOTitle desc
 ```
@@ -60,4 +60,10 @@ group by od.ANZSCOTitle
 order by score desc, ANZSCOTitle desc
 ```
 
-d
+The ANZSCO codes used in ```ts19individual14occupationsextaxableincomerange.xlsx``` are version 1.1 whereas the ANZSCO codes in ```Australian Skills Classification 12-03-2021.xlsx``` are version 1.3. There may be mismatches.
+
+https://www.abs.gov.au/ausstats/abs@.nsf/second+level+view?ReadForm&prodno=1220.0&viewtitle=ANZSCO%20-%20Australian%20and%20New%20Zealand%20Standard%20Classification%20of%20Occupations~First%20Edition,%20Revision%201~Previous~25/06/2009&&tabname=Related%20Products&prodno=1220.0&issue=First%20Edition,%20Revision%201&num=&view=&
+
+https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1220.02013,%20Version%201.3?OpenDocument
+
+The ANZSCO codes used in ```ts19individual14occupationsextaxableincomerange.xlsx``` are 4 digit, giving general areas, whereas the ANZSCO codes in ```Australian Skills Classification 12-03-2021.xlsx``` are 6 digits, giving specific roles. The application will perform a match to provide a general idea of income.

@@ -30,9 +30,3 @@ Some fields of the ```ts19individual14occupationsextaxableincomerange.xlsx.14B``
 The ```Australian Skills Classification 12-03-2021.xlsx.Common tech tools``` spreadsheet contains the text "Several technology tools are so universal in 2021 that they are likely to be used by most or all occupations, and these are listed here. These tools are:" as the first row. This is obviously not a data value.
 
 ```ts19individual14occupationsextaxableincomerange.xlsx``` also contains superscript annotations and carriage returns within field names, and a page title on each spreadsheet. 
-
-The ANZSCO codes used in ```ts19individual14occupationsextaxableincomerange.xlsx``` are the version 1.1 whereas the ANZSCO codes in ```Australian Skills Classification 12-03-2021.xlsx``` are version 1.3. There is no direct mapping.
-
-https://www.abs.gov.au/ausstats/abs@.nsf/second+level+view?ReadForm&prodno=1220.0&viewtitle=ANZSCO%20-%20Australian%20and%20New%20Zealand%20Standard%20Classification%20of%20Occupations~First%20Edition,%20Revision%201~Previous~25/06/2009&&tabname=Related%20Products&prodno=1220.0&issue=First%20Edition,%20Revision%201&num=&view=&
-
-https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1220.02013,%20Version%201.3?OpenDocument
