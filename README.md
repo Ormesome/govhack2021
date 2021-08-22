@@ -21,6 +21,8 @@ With COVID-19, we have had to re-think education. How can we provide a better an
 
 ## The Final Product
 
-https://govhack2021.ormesome.com/
+[Repository](https://github.com/Ormesome/govhack2021)
 
-Insert the YoutTube URL here.
+[Hosted](https://govhack2021.ormesome.com/)
+
+[YouTube](https://youtu.be/kQIkjLOaqR4)

@@ -13,13 +13,30 @@ The Occupation Interchange is a product designed to
 * assist stay-at-home parents, the long term unemployed, and those with disabilities to recognise the transferability of their daily tasks to a workplace environment;
 * assist teachers and training organisations to address their teaching focus, identifying and targetting core employment skills;
 
+
+### Youth education and employment (National)
+
+Problem? How might we use publicly available data to identify education and employment opportunities for our youth?
+
+Solution? This project creates a web portal that youth can use to find the sort of jobs that they can excel in. It makes use of the Taxation Statistics Data 2018-19 to enrich the search results.
+
+### Exploring the National Skills Commission’s Australian Skills Classification (National)
+
+Problem? How can the general public learn about and be encouraged to interact with the Australian Skills Classification to identify skills within occupations, identify their own skillsets and identify transferability to other occupations of interest?
+
+Solution? This project create a web portal that the public can use to identify occupations that are similar to their current occupation to facilitate a sea change, or to view the skills required of a dream job to guide their professional development. It makes use of the Australian Skills Classification Dataset.
+
+### Rethinking Education (QLD)
+
+Problem? With COVID-19, we have had to re-think education. How can we provide a better and safer education using digital technologies that complement and enhance on campus experiences?
+
+Solution? It's hard enough to be in class trying to grasp the subject matter without having to also work out what it's good for. You could try to book time with the career counsellor who will judge you based on grades and whether the school uniform fits, or you could use this web portal to browse jobs and choose something you're interested in. Makes use of the Australian Skills Classification Dataset and the Taxation Statistics Data 2018-19.
+
 ## User Stories
 
 I, as an employed or recently unemployed person, choose my occupation from a list. The system will provide me with the list of skills that are relevant to my occupation. I can mark them more or less important or leave the default settings. The application will then list for me occupations that match the selected skills with expected salary range.
 
-I, as a student, choose my grades from a list. The system will provide me with the list of skills that those grades roughly correlate to. I can mark them more or less important or leave the default settings. The application will then list for me occupations that match the selected skills with expected salary range.
-
-I, as a long term unemployed, choose my skills and competency from a list and indicate how important those skills are. The application will then list for me occupations that match the selected skills with expected salary range.
+I, as a long term unemployed or as a student, choose my skills and competency from a list and indicate how competent I am. The application will then list for me occupations that match the selected skills with expected salary range.
 
 ## Design
 
