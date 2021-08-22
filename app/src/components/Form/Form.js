@@ -1,5 +1,24 @@
 import React, { useState, useEffect } from "react";
 
+import Paper from "@material-ui/core/Paper";
+
+import { makeStyles } from "@material-ui/core/styles";
+
+import Table from "@material-ui/core/Table";
+import TableHead from "@material-ui/core/TableHead";
+import TableRow from "@material-ui/core/TableRow";
+import TableCell from "@material-ui/core/TableCell";
+import TableBody from "@material-ui/core/TableBody";
+// import TableContainer from "@material-ui/core/TableContainer";
+// import TablePagination from "@material-ui/core/TablePagination";
+// import TableFooter from "@material-ui/core/TableFooter";
+
+import RadioGroup from "@material-ui/core/RadioGroup";
+import Radio from "@material-ui/core/Radio";
+import FormControlLabel from "@material-ui/core/FormControlLabel";
+import FormControl from "@material-ui/core/FormControl";
+import FormLabel from "@material-ui/core/FormLabel";
+
 const initialCompetency = [];
 
 const initialSkill = [
@@ -75,8 +94,39 @@ const initialState = {
   competency: initialCompetency,
 };
 
+const useStyles = makeStyles((theme) => ({
+  tableHeader: {
+    fontSize: "12pt",
+    fontWeight: "600",
+    color: "black",
+    backgroundColor: "#CACACA",
+  },
+  tableData: {
+    fontSize: "10pt",
+    color: "black",
+  },
+  container: {
+    minHeight: 400,
+    maxHeight: 600,
+    fontSize: "10pt",
+    width: 1600,
+  },
+  root: {
+    flexGrow: 1,
+    fontSize: "10pt",
+    backgroundColor: "#FAFAFA",
+    width: 1600,
+  },
+  form: {
+    fontSize: "10pt",
+    color: "black",
+  },
+}));
+
 function Form(props) {
   const [state, setstate] = useState(initialState);
+
+  const classes = useStyles();
 
   const getIncome = () => {
     fetch("/data/income2019.json", {
@@ -619,33 +669,78 @@ function Form(props) {
     <div>
       <h1>Hello!</h1>
       <p>This form will help you find an occupation that best fits you.</p>
-      <p>How would you like to search?</p>
-      <div onChange={onChangeSearchByValue} defaultValue={state.showForm}>
-        <input type="radio" value="skills" name="searchBy" /> skills
-        <input type="radio" value="competencies" name="searchBy" /> competencies
-        <input type="radio" value="occupation" name="searchBy" /> occupation
-      </div>
+      <Paper className={classes.root}>
+        <Table className={classes.table} size="small">
+          <TableBody>
+            <TableRow>
+              <TableCell className={classes.tableData}>
+                <FormControl className={classes.form} component="fieldset">
+                  <FormLabel>How would you like to search?</FormLabel>
+                  <RadioGroup
+                    aria-label="searchBy"
+                    name="searchBy"
+                    value={state.showForm}
+                    onChange={onChangeSearchByValue}
+                  >
+                    <FormControlLabel
+                      value="skills"
+                      control={<Radio />}
+                      label="Skills"
+                    />
+                    <FormControlLabel
+                      value="competencies"
+                      control={<Radio />}
+                      label="Competencies"
+                    />
+                    <FormControlLabel
+                      value="occupation"
+                      control={<Radio />}
+                      label="Occupation"
+                    />
+                  </RadioGroup>
+                </FormControl>
+              </TableCell>
+            </TableRow>
+          </TableBody>
+        </Table>
+      </Paper>
 
       {state.showForm && state.showForm === "skills" ? (
-        <div className="col">
-          Please select your skills:
-          <table>
-            <thead>
-              <tr>
-                <th>Category</th>
-                <th>Skill Type</th>
-                <th>Skill</th>
-              </tr>
-            </thead>
-            <tbody>
+        <Paper className={classes.root}>
+          <Table className={classes.table} size="small">
+            <TableBody>
+              <TableRow>
+                <TableCell className={classes.tableData}>
+                  Please select your skills:
+                </TableCell>
+              </TableRow>
+            </TableBody>
+          </Table>
+          <Table className={classes.table} size="small">
+            <TableHead>
+              <TableRow>
+                <TableCell className={classes.tableHeader}>Category</TableCell>
+                <TableCell className={classes.tableHeader}>
+                  Skill Type
+                </TableCell>
+                <TableCell className={classes.tableHeader}>Skill</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
               {state.skill.map((skill, index) => (
-                <tr key={index}>
-                  <td>
+                <TableRow key={index}>
+                  <TableCell
+                    className={classes.tableData}
+                    width="280"
+                    style={{ width: "280px" }}
+                  >
                     <select
                       name="ClusterFamily"
                       value={skill.ClusterFamily}
                       className="form-control"
                       onChange={(e) => onChangeSkillValue(e, index)}
+                      width="280"
+                      style={{ width: "280px" }}
                     >
                       {state.skillClusterFamily.map((data) => (
                         <option
@@ -656,13 +751,19 @@ function Form(props) {
                         </option>
                       ))}
                     </select>
-                  </td>
-                  <td>
+                  </TableCell>
+                  <TableCell
+                    className={classes.tableData}
+                    width="600"
+                    style={{ width: "600px" }}
+                  >
                     <select
                       name="SpecialistCluster"
                       value={skill.SpecialistCluster}
                       className="form-control"
                       onChange={(e) => onChangeSkillValue(e, index)}
+                      width="600"
+                      style={{ width: "600px" }}
                     >
                       {state.skillSpecialistCluster
                         .filter(
@@ -679,14 +780,19 @@ function Form(props) {
                           </option>
                         ))}
                     </select>
-                  </td>
-
-                  <td>
+                  </TableCell>
+                  <TableCell
+                    className={classes.tableData}
+                    width="600"
+                    style={{ width: "600px" }}
+                  >
                     <select
                       name="SpecialistTask"
                       value={skill.SpecialistTask}
                       className="form-control"
                       onChange={(e) => onChangeSkillValue(e, index)}
+                      width="600"
+                      style={{ width: "600px" }}
                     >
                       {state.skillSpecialistTask
                         .filter(
@@ -703,33 +809,53 @@ function Form(props) {
                           </option>
                         ))}
                     </select>
-                  </td>
-                </tr>
+                  </TableCell>
+                </TableRow>
               ))}
-            </tbody>
-          </table>
-        </div>
+            </TableBody>
+          </Table>
+        </Paper>
       ) : null}
       {state.showForm && state.showForm === "competencies" ? (
-        <div className="col">
-          Please evaluate your competencies:
-          <table>
-            <thead>
-              <tr>
-                <th>Competency</th>
-                <th>Evaluation</th>
-              </tr>
-            </thead>
-            <tbody>
+        <Paper className={classes.root}>
+          <Table className={classes.table} size="small">
+            <TableBody>
+              <TableRow>
+                <TableCell className={classes.tableData}>
+                  Please evaluate your competencies:
+                </TableCell>
+              </TableRow>
+            </TableBody>
+          </Table>
+          <Table className={classes.table} size="small">
+            <TableHead>
+              <TableRow>
+                <TableCell className={classes.tableHeader}>
+                  Competency
+                </TableCell>
+                <TableCell className={classes.tableHeader}>
+                  Evaluation
+                </TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
               {state.competency.map((competency, index) => (
-                <tr key={index}>
-                  <td>{competency.CoreCompetencies}</td>
-                  <td>
+                <TableRow key={index}>
+                  <TableCell
+                    className={classes.tableData}
+                    width="400"
+                    style={{ width: "400px" }}
+                  >
+                    {competency.CoreCompetencies}
+                  </TableCell>
+                  <TableCell className={classes.tableData}>
                     <select
                       name={competency.CoreCompetencies}
                       value={competency.Score}
                       className="form-control"
                       onChange={(e) => onChangeCoreCompetenciesValue(e, index)}
+                      width="1200"
+                      style={{ width: "1200px" }}
                     >
                       {state.competencies
                         .filter(
@@ -742,83 +868,141 @@ function Form(props) {
                           </option>
                         ))}
                     </select>
-                  </td>
-                </tr>
+                  </TableCell>
+                </TableRow>
               ))}
-            </tbody>
-          </table>
-        </div>
+            </TableBody>
+          </Table>
+        </Paper>
       ) : null}
       {state.showForm && state.showForm === "occupation" ? (
-        <div className="col">
-          Please select your occupation:
-          <select
-            name="occupation"
-            value={state.occupation}
-            className="form-control"
-            onChange={(e) => onChangeOccupationValue(e)}
-          >
-            {state.occupations.map((data) => (
-              <option key={data.ANZSCOCode} value={data.ANZSCOCode}>
-                {data.ANZSCOTitle}
-              </option>
-            ))}
-          </select>
-        </div>
+        <Paper className={classes.root}>
+          <Table className={classes.table} size="small">
+            <TableBody>
+              <TableRow>
+                <TableCell className={classes.tableData}>
+                  Please select your occupation:
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell className={classes.tableData}>
+                  <select
+                    name="occupation"
+                    value={state.occupation}
+                    className="form-control"
+                    onChange={(e) => onChangeOccupationValue(e)}
+                  >
+                    {state.occupations.map((data) => (
+                      <option key={data.ANZSCOCode} value={data.ANZSCOCode}>
+                        {data.ANZSCOTitle}
+                      </option>
+                    ))}
+                  </select>
+                </TableCell>
+              </TableRow>
+            </TableBody>
+          </Table>
+        </Paper>
       ) : null}
       {state.showForm &&
       state.showForm === "occupation" &&
       state.occupation > 0 ? (
-        <div>
-          <div>Skills that align with your selected occupation are:</div>
-          <table>
-            <thead>
-              <tr>
-                <th>Category</th>
-                <th>Skill Type</th>
-                <th>Skill</th>
-              </tr>
-            </thead>
-            <tbody>
+        <Paper className={classes.root}>
+          <Table className={classes.table} size="small">
+            <TableBody>
+              <TableRow>
+                <TableCell className={classes.tableData}>
+                  Skills that align with your selected occupation are:
+                </TableCell>
+              </TableRow>
+            </TableBody>
+          </Table>
+          <Table className={classes.table} size="small">
+            <TableHead>
+              <TableRow>
+                <TableCell className={classes.tableHeader}>Category</TableCell>
+                <TableCell className={classes.tableHeader}>
+                  Skill Type
+                </TableCell>
+                <TableCell className={classes.tableHeader}>Skill</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
               {state.skills
                 .filter(
                   (skill) =>
                     skill.ANZSCOCode.toString() === state.occupation.toString()
                 )
                 .map((data, index) => (
-                  <tr key={index}>
-                    <td>{data.ClusterFamily}</td>
-                    <td>{data.SpecialistCluster}</td>
-                    <td>{data.SpecialistTask}</td>
-                  </tr>
+                  <TableRow key={index}>
+                    <TableCell className={classes.tableData}>
+                      {data.ClusterFamily}
+                    </TableCell>
+                    <TableCell className={classes.tableData}>
+                      {data.SpecialistCluster}
+                    </TableCell>
+                    <TableCell className={classes.tableData}>
+                      {data.SpecialistTask}
+                    </TableCell>
+                  </TableRow>
                 ))}
-            </tbody>
-          </table>
-        </div>
+            </TableBody>
+          </Table>
+        </Paper>
       ) : null}
 
       {state.occupationResults && state.occupationResults.length > 0 ? (
-        <div>
-          <div>Occupations that align with your skills are:</div>
-          <table>
-            <thead>
-              <tr>
-                <th>Occupation</th>
-                <th>Score</th>
-                <th>Average Income for Industry</th>
-              </tr>
-            </thead>
-            <tbody>
+        <Paper className={classes.root}>
+          <Table className={classes.table} size="small">
+            <TableBody>
+              <TableRow>
+                <TableCell className={classes.tableData}>
+                  Occupations that align with your skills are:
+                </TableCell>
+              </TableRow>
+            </TableBody>
+          </Table>
+          <Table className={classes.table} size="small">
+            <TableHead>
+              <TableRow>
+                <TableCell className={classes.tableHeader}>
+                  Occupation
+                </TableCell>
+                <TableCell align="right" className={classes.tableHeader}>
+                  Score
+                </TableCell>
+                <TableCell align="right" className={classes.tableHeader}>
+                  Average Income for Industry
+                </TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
               {state.occupationResults.map((data, index) => (
-                <tr key={index}>
-                  <td>{data.ANZSCOTitle}</td>
-                  <td>{data.Score}</td>
-                  <td>{data.Income}</td>
-                </tr>
+                <TableRow key={index}>
+                  <TableCell className={classes.tableData}>
+                    {data.ANZSCOTitle}
+                  </TableCell>
+                  <TableCell
+                    className={classes.tableData}
+                    align="right"
+                    width="300"
+                    style={{ width: "300px" }}
+                  >
+                    {data.Score}
+                  </TableCell>
+                  <TableCell
+                    className={classes.tableData}
+                    align="right"
+                    width="300"
+                    style={{ width: "300px" }}
+                  >
+                    {data.Income}
+                  </TableCell>
+                </TableRow>
               ))}
-            </tbody>
-          </table>
-        </div>
+            </TableBody>
+          </Table>
+        </Paper>
       ) : null}
     </div>
   );

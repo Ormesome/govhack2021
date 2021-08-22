@@ -1,4 +1,14 @@
-.App {
+body {
+  background-color: rgb(230, 230, 230);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

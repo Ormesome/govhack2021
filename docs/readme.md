@@ -114,8 +114,10 @@ The following occupations have similar skills to your current role:
 
 ## Future Work
 
-Include the ability to choose skills the user wants to develop and have Training Organisations and their courses returned.
+Click through on the occupation results list to show the skill gap between the original and chosen occupations.
 
-Generate a delta between a current role or skillset and a desired role. This could be used for planning professional development.
+Click through on the skill list and skill gap list to show the offerings from Training Organisations so that users can either search for ways to segway to a new role, or target a specific desired role.
 
-The salary range column has been dropped due to lack or correlation between the v1.1 ANZSCO codes used in the Australian Taxation Office data and the v1.3 ANZSCO codes used in the National Skills Commision data.
+Provide a graph of salaries over the past 10 years for the occupations in the result list. Extend the graph into the future based on the trend line.
+
+Make the various lists alphabetical. Currently they're in ANZSCO Code order.
