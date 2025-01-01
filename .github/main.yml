@@ -1,0 +1,18 @@
+name: CI
+
+on:
+  push:
+    branches: [ master, main ]
+
+  # Allows the workflow to be run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - name: push check
+        run: echo "Self-hosted runner is working!"
+      - name: checkout
+        uses: actions/checkout@v4
+
